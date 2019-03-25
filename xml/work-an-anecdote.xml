@@ -1,0 +1,78 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"WORK! An Anecdote" by Richard Hengist Horne, published in <title>Household Words: A Weekly Journal</title>, vol. 1, issue 2 (1850), pages 35-36</title>
+    <author>Horne, Richard Hengist. </author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Robin Horn, Lesli Mortensen</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>Horne, Richard Hengist. "WORK! An Anecdote." <title>Household Words: A Weekly Journal</title>, vol. 1, no. 2,  1850, pp. 35-6. Edited by  Robin Horn. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/work-an-anecdote/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: This brief anecdote narrates what happens to a man when an excess of leisure becomes insufferable. Like many stories of its time, “WORK! An Anecdote” teaches a didactic lesson that an idle mind leads to sin and that work, even common labor, is what makes one’s life useful. This morally didactic message echoes the aim of <emph>Household Words</emph>: to acknowledge “the hardest workers at this whirling wheel of toil, that their lot is not necessarily a moody, brutal fact, excluded from the sympathies and graces of imagination.”<note type="annotation" resp="editor" place="end" anchored="true">Qtd. in “Household Words; A Weekly Journal Conducted by Charles Dickens,” <emph>The Waterloo Directory of English Newspapers and Periodicals, 1800-1900</emph>, Series 2, Ed. John S. North, North Waterloo Academic Press, 2003. Online edition.</note></p>
+<p>Unlike most didactic tales, however, this one does not have a conclusion that neatly resolves its moral message. Instead, Horne's tight and terse narrative ends with defiance, raw anger, and estrangement.</p>
+
+   </div>
+  </front>
+  <body>
+<p>A CAVALRY OFFICER of large fortune, who had distinguished himself in several actions, having been quartered for a long time in a foreign city, gradually fell into a life of extreme and incessant dissipation. He soon found himself so indisposed to any active military service, that even the ordinary routine became irksome and unbearable. He accordingly solicited and obtained leave of absence from his regiment for six months. But, instead of immediately engaging in some occupation of mind and body, as a curative process for his morbid condition, he hastened to London, and gave himself up entirely to greater luxuries than ever, and plunged into every kind of sensuality. The consequence was a disgust of life and all its healthy offices. He became unable to read half a page of a book, or to write the shortest note; mounting his horse was too much trouble; to lounge down the street was a hateful effort. His appetite failed, or everything disagreed with him; and he could seldom sleep. Existence became an intolerable burthen; he therefore determined on suicide.</p>
+<p>With this intention he loaded his pistols, and, influenced by early associations, dressed himself in his regimental frock-coat and crimson sash, and entered St. James’s Park a little before sunrise. He felt as if he was mounting guard for the last time; listened to each sound, and looked with miserable affection across the misty green towards the Horse Guards, faintly seen in the distance.</p>
+<p>A few minutes after the officer had entered the park, there passed through the same gate a poor mechanic, who leisurely followed in the same direction. He was a gaunt, half-famished looking man, and walked with a sad air, his eyes bent thoughtfully on the ground, and his large bony hands dangling at his sides.</p>
+<p>The officer, absorbed in the act he meditated, walked on without being aware of the presence of another person. Arriving about the middle of a wide open space, he suddenly stopped, and drawing forth both pistols, exclaimed: ‘Oh, most unfortunate and most wretched man that I am! Wealth, station, honour, prospects, are of no avail! Existence has become a heavy torment to me! I have not strength—I have not courage to endure or face it a moment longer!’</p>
+<p>With these words he cocked the pistols, and was raising both of them to his head, when his arms were seized from behind, and the pistols twisted out of his fingers. He reeled round, and beheld the gaunt scarecrow of a man who had followed him.</p>
+<p>‘What are you?’ stammered the officer, with a painful air; ‘How dare you to step between me and death?’</p>
+<p>‘I am a poor hungry mechanic;’ answered the man, ‘one who works from fourteen to sixteen hours a day, and yet finds it hard to earn a living. My wife is dead—my daughter was tempted away from me—and I am a lone man. As I have nobody to live for, and have become quite tired of my life, I came out this morning, intending to drown myself. But as the fresh air of the park came over my face, the sickness of life gave way to shame at my own want of strength and courage, and I determined to walk onwards and live my allotted time. But what are <emph>you?</emph> Have you encountered cannon-balls and death in all shapes, and now want the strength and courage to meet the curse of idleness?’</p>
+<p>The officer was moving off with some confused words, but the mechanic took him by the arm, and threatening to hand him over to the police if he resisted, led him droopingly away.</p>
+<p>This mechanic’s work was that of a turner, and he lived in a dark cellar, where he toiled at his lathe from morning to night. Hearing that the officer had amused himself with a little turnery in his youth, the poor artisan proposed to take him down into his workshop. The officer offered him money, and was anxious to escape; but the mechanic refused it, and persisted.</p>
+<p>He accordingly took the morbid gentleman down into his dark cellar, and set him to work at his lathe. The officer began very languidly, and soon rose to depart. Whereupon, the mechanic forced him down again on the hard bench, and swore that if he did not do an hour’s work for him, in return for saving his life, he would instantly consign him to a policeman, and denounce him for attempting to commit suicide. At this threat the officer was so confounded, that he at once consented to do the work.</p>
+<p>When the hour was over, the mechanic insisted on a second hour, in consequence of the slowness of the work—it had not been a fair hour’s labour. In vain the officer protested, was angry, and exhausted—had the heartburn—pains in his back and limbs—and declared it would kill him. The mechanic was inexorable. ‘If it <emph>does</emph> kill you,’ said he, ‘then you will only be where you would have been if I had not stopped you.’ So the officer was compelled to continue his work with an inflamed face, and the perspiration pouring down over his cheeks and chin.</p>
+<p>At last he could proceed no longer, come what would of it, and sank back in the arms of his persecuting preserver. The mechanic now placed before him his own breakfast, composed of a twopenny loaf of brown bread, and a pint of small beer; the whole of which the officer disposed of in no time, and then sent out for more.</p>
+<p>Before the boy who was despatched on this errand returned, a little conversation had ensued; and as the officer rose to go, he smilingly placed his purse, with his card, in the hands of the mechanic. The poor ragged man received them with all the composure of a physician, and with a sort of dry, grim humour which appeared peculiar to him, and the only relief of his otherwise rough and rigid character, made sombre by the constant shadows and troubles of life.</p>
+<p>But the moment he read the name on the card, all the hard lines in his deeply-marked face underwent a sudden contortion. Thrusting back the purse and card into the officer’s hand, he seized him with a fierce grip by one arm—hurried him, wondering, up the dark broken stairs, along the narrow passage—then pushed him out at the door!</p>
+<p>‘You are the fine gentleman who tempted my daughter away!’ said he.</p>
+<p>‘I—<emph>your</emph> daughter!’ exclaimed the officer.</p>
+<p>‘Yes, my daughter; Ellen Brentwood!’ said the mechanic. ‘Are there so many men’s daughters in the list, that you forget her name?’</p>
+<p>‘I implore you,’ said the officer, ‘to take this purse. <emph>Pray</emph> take this purse! If you will not accept it for yourself, I entreat you to send it to her!’</p>
+<p>‘Go and buy a lathe with it,’ said the mechanic. ‘Work, man! and repent of your past life!’</p>
+<p>So saying, he closed the door in the officer’s face, and descended the stairs to his daily labour.</p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>

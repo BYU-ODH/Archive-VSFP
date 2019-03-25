@@ -1,0 +1,217 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"The Sculptor of Verona" by Arthur Hume Plunkett, published in <title>Heath’s Book of Beauty</title>, vol. 10 (1842), pages 103-126</title>
+    <author>Plunkett, Arthur Hume. </author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Jessica Allen, Tyler Vogelsberg</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>Plunkett, Arthur Hume. "The Sculptor of Verona." <title>Heath’s Book of Beauty</title>, vol. 10,  1842, pp. 103-26. Edited by  Jessica Allen. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-sculptor-of-verona/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: “The Sculptor of Verona” is a fast-paced melodrama involving political intrigue and betrayed love. Though the Irish playwright and poet Arthur Hume Plunkett wrote it as a tale to be read rather than a script to be acted, he laid out the narrative in scenes with dialogue and description that lend themselves to envisioning the story as it would appear on a stage.</p>
+<p>As the literary annual, <emph>Heath’s Book of Beauty,</emph> was compiled for a primarily—but not exclusively—female audience, this narrative could also be read as a cautionary tale. Not only does it include high adventure with sweeping themes of romance and loyalty, but it also addresses the plight of a powerful woman in her quest for love: “and it is ever thus, when Genius, Hope, and Energy, unite in woman’s heart, on earth she seeks companionship in vain.”</p>
+
+   </div>
+  </front>
+  <body>
+<p style="text-align: left; padding-left: 150px;">“She had given</p>
+<p style="text-align: left; padding-left: 150px;">Life’s hope to a most fragile bark—to love!</p>
+<p style="text-align: left; padding-left: 150px;">’Twas wrecked—wrecked by love’s treachery!” —L. E. L.<note type="annotation" resp="editor" place="end" anchored="true">From Letitia Elizabeth Landon’s “The Contrast.”</note></p>
+<p style="text-align: center;">I.</p>
+<p>“FRANCESCA DI ROSATE! What of her?” demanded Marco Pelavicino, a joyous and hot-blooded gallant, as he joined a group of Veronese nobles, assembled in a spacious antechamber in the palace of the Lord of La Scala.</p>
+<p>“Listen, Pelavicino!” cried Gheraldi Capello. “The sculptor whom we had deemed as cold and soulless as her famous statues is at last discovered to possess a heart.”</p>
+<p>“Even so, or am I no judge of woman, sirs,” chimed in the Count Ottorino, one of the greatest gossips in Verona; and lowering his voice, as if fearful of disturbing the Prince, who was seated in the next chamber with his council, he continued in a deep, earnest, and mysterious tone, “Last night, invited to her palace, I went to look upon her latest work, finished but a few days since,—a statue of unparalleled grace and beauty: I and some others—friends, sirs—chosen friends. We gazed in wonder on that most glorious sight. On our entrance, we found her kneeling before the statue, lost in the strength, the splendour, and the beauty, of her own creation. Her answer to our admiration was a sigh. We praised,—she listened with a careless ear. A word by chance escaped my lips; it was the name of one then absent; and tears that told of slighted love too soon betrayed that yet the measure of her triumphs was not full,—for one amid her worshippers was wanting there.”</p>
+<p>“His name, Sir Count?” exclaimed Pelavicino.</p>
+<p>“Not yours, so rest content,” replied Ottorino.</p>
+<p>“A purse of gold with you, I guess,” cried Pelavicino,—“Uberto Varro——”</p>
+<p>The doors of the adjoining room were thrown open, and the Lord of La Scala, accompanied by his court and nobles, entered the chamber. The group immediately dispersed, with the exception of six or seven, who remained with Marco Pelavicino, loitering around him, and listening to his whispered jests on the Prince and his train, as they passed through the hall.</p>
+<p>“A moment, Enrico,” said Pelavicino, addressing a straggling page, who was crossing from the council-chamber to follow the Prince,—“a moment here, my gallant youth! What news astir? Why is the council dissolved so suddenly to-day? Tidings from Venice or the Milanese?”</p>
+<p>“Nay, sir, his highness hath been called away,” responded the boy.</p>
+<p>“But by whom?”</p>
+<p>“By whom! Now, were you, Count Pelavicino, and you, most noble Azzone, and all of you, to stand musing and pondering here till doomsday, you would never guess by whom. A lady, sirs!—and so no more.”</p>
+<p>“Stop him, Azzone!—stop him!” shouted Pelavicino.</p>
+<p>“Let me be gone, kind sirs. Oh! do not stay me now. Your grasp is tight! Count Marco, let me pass.”</p>
+<p>“The lady, boy?”</p>
+<p>“The sculptor of Verona, Francesca di Rosate! Good sirs, now let me pass.”</p>
+<p>“’T is false, young fool!” replied Ottorino. “He is deceiving us.”</p>
+<p>“True, on a page’s honour, nobles! I saw the Prince make question of her attendant now parting from the council. Fare-ye-well, sirs!” cried the boy, as, eluding their grasp, he vanished from the room.</p>
+<p>A dark and angry frown settled on the brow of Marco Pelavicino; and with a quivering lip and trembling gait he turned aside, and, beckoning to Azzone, quitted the chamber.</p>
+<p>When without the portals of the palace, he breathed more freely; and grasping his companion’s arm, muttered in his ear, “We must be gone,—Verona is no place for us! Our plans are evidently known. Another hour within its gates, our heads are forfeited. We are betrayed!”</p>
+<p>“Betrayed!” exclaimed Azzone, with a blanched cheek,—“betrayed! by whom?”</p>
+<p>“Francesca di Rosate!” whispered his companion.</p>
+<p>“Art mad?” cried Azzone. “What should she know of us? Has she heard aught?”</p>
+<p>“Why should she send for him? I received this day a warning,—it surely came from her.  Again I say, Azzone, we are betrayed!”</p>
+<p>“What warning?” demanded the terrified youth.</p>
+<p>“Hush!” interrupted Pelavicino. “The Florentine, Camillo, seeks us, and in haste. It needs no words to tell his tidings. All is lost!”</p>
+<p>Casting a quick and furtive glance around him, the person just alluded to, with rapid steps, approached the alarmed nobles.</p>
+<p>“To horse!” he cried, before they could address a question to him,—“To horse, sirs! quick!—to horse! Our treason is discovered. Andrea Paulo hath fled Verona, after, in some weak fit, revealing all.”</p>
+<p>“To whom?” demanded Azzone.</p>
+<p>“To whom I know not.”</p>
+<p>“Away!” cried Pelavicino. “There is no time to lose. Farewell!” and seizing Azzone’s arm, he turned from the Florentine.</p>
+<p>“Stay, sirs! Where is Uberto Varro hid? These tidings should be known to him;” and Camillo grasped Azzone’s cloak.</p>
+<p>“I know not. Hence! I dare not linger.”</p>
+<p>“I implore you, sir,” continued the Florentine, addressing Pelavicino earnestly, “if you do know, to tell me where Uberto Varro bides?”</p>
+<p>“I know not,” answered Pelavicino, as he hurried after Azzone. “Yet stay,” he added, “seek him in the palace of Francesca di Rosate. He may be there. Farewell!”</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">II.</p>
+<p>Leaning on a statue, placed in the centre of a gorgeous chamber in the Rosate Palace, and with her gaze intently fixed on a line of mountains visible in the distance, was the celebrated woman-sculptor of Verona, Francesca di Rosate.</p>
+<p>Her life had, until the few preceding weeks, been a course of eventful triumphs. Left a mere child, at the death of her mother, to the care of a fond and idolising father, the extraordinary genius which she early evinced was but too well cultivated and encouraged by her adoring parent. But at the moment when her name was being repeated in tones of wonder through the neighbouring cities of her native land,—when the bright fulfilment of that father’s aspiring hopes seemed to be on the very eve of accomplishment,—and Fame, with a lavish train of a thousand glories, was hovering near, Rosate died, and the young heart of Francesca was bowed in sudden grief for his untimely end. Years of silent melancholy wore along,—the sculptor toiling unceasingly in her lone and deserted palace, until, in a bright and thrilling hour—the chisel thrown aside—the labour wrought—each high and daring longing fulfilled, the proud maiden found herself recognised among those famous ones—the almost deified of her own Italy.</p>
+<p>But with fame came love, and fame was soon worthless and unvalued in her heart. Uberto Varro, a noble Veronese, wooed and won her; and the day on which this legend commences was the eve of that appointed for their nuptials. In deference to the feelings of his affianced bride, such secrecy was observed that Verona dreamed not of the coming marriage. The day had been chosen by the lovers, the last in June; but, strange to say, for three weeks previous thereto Varro had unaccountably disappeared from his accustomed place in the Rosate Palace. Day after day had gone by; but Francesca, with the deep and enduring constancy of woman, hoped against hope, ever counting that when least expected Uberto would be again at her side.</p>
+<p>“My beautiful!” she passionately cried, retreating a few feet from the statue over which she had been for the last hour musing, and watching for the approach of Uberto,—“my beautiful!” she exclaimed, with her hands clasped, and her attitude that of an enthusiastic worshipper. “Oh, fair creation of my woman’s soul! assume this night a grace surpassing even that, borne by the shade, ideal and unwrought, the vision of those early dreams from which I borrowed thee! Wear now an aspect and a hue and light of beauty inexpressible, and with inspiring radiance meet his glance of all-adoring ecstasy. Decay, or shrink to dust, I care not then. The fame, hallowed from age to age, that waits my name were worth his slightest smile.”</p>
+<p>Voices in the court-yard without caught the ear of the sculptor. “What sounds are those, Julio?” she asked, as a boy entered the chamber. “My messenger cannot as yet have reached the Palace of La Scala. Tidings of Varro? Hasten and see.—Woe is me!” she continued, when alone; “at such a time to have a base and dangerous conspiracy against the state revealed to me! Chance needs must fix on me to be the one to whom an aged man, some time a servitor to my father, discloses all. Fortune might well have spared me here. Alas! poor lover of my land! Verona now might be a heap of ashes, knew I but where Uberto Varro is. I marvel much if the Prince will attend my bidding to my palace. La Scala likes us not. My father hated him; and I, his child, moved by the imperative call of justice—nought else—give him a welcome here—reveal the threatened peril against his house, and then—”</p>
+<p>The doors were thrown open by Julio, and Count Camillo, the Florentine, entered. “Your pardon, lady, for this unseemly haste,” he exclaimed. “I have been told to seek Uberto Varro here. Come I in vain?”</p>
+<p>“What of him, sir?” cried Francesca—“what of him? Hast tidings from him? Speak!”</p>
+<p>“Bid yonder listener hence.”</p>
+<p>“Sir!” she demanded haughtily.</p>
+<p>“As from your words you value Varro’s life, let him retire,” repeated Camillo, glancing at the page.</p>
+<p>“Leave us, Julio,” said Francesca, after a moment’s pause. “Now, sir, what would you with me?” she exclaimed, as the boy quitted the chamber.</p>
+<p>“Time presses,” replied Camillo; and perceiving that Francesca was almost fainting with agitation, added, gently,—“Lady, I implore you to hear me with calmness. Each hour—each moment, that I remain in Verona is at the hazard of my life—”</p>
+<p>“What mean you, sir?” she interrupted, distractedly. “What of Varro—Count Uberto Varro?”</p>
+<p>“Hear me,” he whispered; “men have conspired against La Scala!”</p>
+<p>“The treason!” cried Francesca, angrily. “Bah! Count Camillo, see! I know it all.”</p>
+<p>“Then save Uberto’s life.”</p>
+<p>The sculptor’s voice fell as she tremblingly demanded,—“Mother of Heaven! and what of him?”</p>
+<p>“The chief—the leader—the sworn lord of a daring band of bold Italians, who vainly dreamed to save their land; when one—false and base traitor that he was!” cried the Florentine,—“discovered us and all our plans;—to whom we know not.”</p>
+<p>“Be brief!” cried Francesca. “Those will be here anon for whom with thee to meet were death. You sought Uberto Varro here; weeks have elapsed since last we saw him. Oh God! what shall I do? How save his life!”</p>
+<p>“Meet him—meet him to-night!” answered Camillo. “Madman that he is, perilling all, even life, for love; and for a woman’s sake, fair though she be, rushing into the very jaws of danger to encounter the vengeance of La Scala!”</p>
+<p>“Enough, sir!” said Francesca. “I know he loves; and she of whom you speak can, surely in an hour like this, dispense with compliments. Speed—say on! Once in this house, he need fear no danger.”</p>
+<p>“Were he here,” replied the Florentine, “it would, indeed, be well. But in the Palace of La Scala——”</p>
+<p>“And why, sir,” cried Francesca,—“why in the Palace of La Scala?”</p>
+<p>“Remember, noble maiden,” answered Camillo; “watched so strictly as the lady is, where else could he meet her?”</p>
+<p>“Meet whom?” gasped the sculptor.</p>
+<p>“The fair Bianca—the daughter of the Prince.”</p>
+<p>“Speak!” and Francesca grasped his arm to prevent herself from falling,—“speak!”</p>
+<p>“I thought you knew it all—affianced secretly—met but a month since—”</p>
+<p>“Ha!”</p>
+<p>“Art terror-stricken? Listen to me, and stand not musing thus. I do not know Uberto’s place of concealment. At noon to-day he said that he was this coming night bound to enter the Palace. Within an hour I shall quit Verona for ever. There is a portal near the southern gate, through which, admitted by a faithful friend, he ventures to her. Mark me! If to-night he passes that door, his life is lost! Francesca di Rosate, will you meet him? Save with a word your friend!”</p>
+<p>The Florentine paused suddenly in his vehement and rapid address. Was that distorted face, pallid with rage and anger, and burning with jealousy, that of the sculptor of Verona? In one moment bereft of youth, the worst passions of age and care seemed written on her brow. “Lady,” he continued, “you do not heed me?”</p>
+<p>“Yes—yes,” she answered slowly,—“yes: your words that fail to slay me yet rob my brain of every sense. I do not know—indeed, I do not comprehend you—I——What was it that you said?” she cried, wildly.</p>
+<p>“Braving all danger, will you, at midnight, meet beneath the windows of La Scala’s Palace Uberto Varro?”</p>
+<p>“’T is false!” she cried,—“false as hell!”</p>
+<p>“The Lord of La Scala,” announced the page Julio, “enters the palace of my mistress!”</p>
+<p>“Hence, Camillo!—Count Camillo, hence! The Prince approaches! We are lost if you remain!”</p>
+<p>“At midnight!” whispered the Florentine, as Julio hurried him to the door of a corridor opposite to that through which La Scala was at that moment entering the chamber.</p>
+<p>In a few moments Camillo was without the Palace of Rosate. Much did he marvel, as he hastily glanced around him in quitting its neighbourhood, to perceive that La Scala had dispensed with the usual retinue of attendants that followed his steps in public. His first impression, respecting the sudden appearance of the Prince in the chamber which he had just quitted, did not redound much to the honour of its noble occupant. His second was, that he had incautiously betrayed the secret of the conspiracy to her who should have been the last woman in Verona to have had a hint of it. Bound as he was to Uberto Varro by every tie of the most sacred friendship, to quit the city now, without warning him as to the danger of his situation, or cautioning him not to approach the Palace of La Scala, was out of the question. He himself would remain within Verona, and awaiting Varro near the palace, prevent his passing the fatal door.</p>
+<p>Midnight had passed when Camillo saw Varro approaching its walls. He had entered by the secret portal before the Florentine could overtake him. Camillo, however, remained at his post; and on a ladder of ropes being thrown from a balcony above, to which it was secured, calling to Uberto by name, and springing lightly up its steps, the Florentine bounded into the chamber in which the lovers were in time to save the life of Varro.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">III.</p>
+<p>Vain, indeed, was the effort, on the part of the wretched Francesca, to receive and welcome the Prince with her usual composure. The ill-assumed smile faded from her lips, and the sculptor burst into tears. She had yet to learn that command which often enables woman to fling with seeming ease a veil of smiles around the deep agony of a breaking heart.</p>
+<p>Bowed to the very earth with tidings of such dreadful import, she had almost forgotten the presence of La Scala, when his voice, at her side, recalled her fleeting senses, as for the third time he inquired the meaning of the warning, couched in such urgent terms, which he had received from her.</p>
+<p>“Lady, what is this plot?” he asked. “Who in Verona dares——”</p>
+<p>“Ay, that was it!” shrieked Francesca, wildly, starting from her fit of abstraction, as her ear caught his words,—“ay, that was it! Danger and death! and they recall the rest. A band of nobles—‘t was even so the rumour went—their names unknown. Such is the tale I heard, and had to tell; and <emph>he</emph> is one of them!”</p>
+<p>She paused. The Prince was gazing on her, lost in wonder. Another whisper from her lips, and Camillo’s tidings were true,—she felt that the head of Varro would surely roll upon the scaffold. With a feeble, though a desperate effort to be calm, she faintly muttered: “I rave—I rave! A moment, good my lord, till I collect my scattered thoughts.”</p>
+<p>And it was but after the pause of a moment, with lips lapsing into their wonted smiles, and with a joyous grace of manner, and in sweet, though half-rebuking tones, that she exclaimed, “Lord of Verona!—what! in the studio of a sculptor, a woman too,—and all forget her art! Look! even now! the sun’s last beam has stolen through the vine, and, resting in a roseate glory, lingers, like life, a moment on yon marble brow. The statue blushes at the parting god! Come, look at it, my lord.”</p>
+<p>“Do you not find it fair?” she asked; “or does the fixed intentness of your gaze belie my hopes? You do. Mark, from the stone how fast that soft and tender hue is waning now—and now ’tis gone! The sun is set!” And Francesca sighed as though her heart was breaking. To her she felt that sun had set for ever, she never should behold it more. It would shine forth again, and look upon her, dead.</p>
+<p>“’T is like!” exclaimed La Scala, clasping his hands in surprise. “A marvel—’t is herself!”</p>
+<p>“Like whom, my lord?” demanded Francesca.</p>
+<p>“Never did fond father yet fix his enraptured gaze upon a dearer sight!” continued the delighted Prince. “Oh, spare the love—call it presumption, if you will—but in each lineament, each frozen vein—yes, and in that cold, silent, and eternal smile, I trace the perfect—the most perfect image of my child! Oh it is she! her noble self!—Ha!” he continued, as the thought flashed suddenly on him, “I see it all! This is your plot—your treason and conspiracy. ’T was thus you drew me here. My child is hid behind yon arras. Bid her forth, lady, now and face to face with her cold rival stand; and shame the pallor of its marble cheek with the rich hue of blushing youth, in which alone she doth excel.”</p>
+<p>“You do not comprehend me, good my lord; I never saw your daughter’s face;” and the sculptor spoke in a piqued and angry tone. “She must be very beautiful!”</p>
+<p>“She is,” he replied; “and as I gaze, more like and like the statue grows.”</p>
+<p>A painful and a smothered cry escaped the lips of Francesca, as the memory of days which she had deemed the happiest of her life swept across her brain—of days when, resting at her feet, from hour to hour, Uberto Varro watched her work as it drew near a close—of days when often he had said the work resembled <emph>one</emph> he had seen and known. She had deemed it then a jest. The thought was maddening now.</p>
+<p>“My lord,” she cried, making one desperate effort to recover herself—“my lord, if so you note my work, a thousand imperfections in it will soon be apparent to you. Heed me.”</p>
+<p>And in a deep, rapid, and hurried tone, she proceeded to explain to him the cause of her extraordinary summons. Pointing to a seat, which the Prince accepted, she related how, on the previous evening, one Andrea Paulo, once a servitor to her father, had boldly forced his entrance into the very chamber in which they then were. That then, with a wild and strange bearing, and looks of haggard import, he had sworn her to a sacred silence on the matter he was about to reveal, until the lapse of a day should see him far on his way to the distant Alps. Then, with the simple warning that she should not remain another night in Verona, but hurry from its walls with such of her friends as time and inclination might allow her to inform of their danger, he was about to quit her presence.</p>
+<p>“He did not leave you without revealing the plot? Be quick! The danger, lady?” inquired the Prince.</p>
+<p>“He did, my lord—he did! But urged by my strong entreaties ere he went—by gold and jewels which I heaped on him—he consented that I should have the names of all—ay, <emph>all!</emph>—who compass ruin to your house. That ere the coming midnight a scroll to this effect should be placed in my hand. Thus have I sent for you—now, methinks, heedlessly. If this should be the fiction of a madman’s brain? Ah me,—ah me, my lord!” she continued, bitterly; “we are upon the brink of ruin. There are those in jeopardy who dream not of it.”</p>
+<p>Without giving the conversation which ensued, Francesca di Rosate did not suffer the Prince of Verona to quit her palace before one and a dear object had been obtained. From the moment that she sufficiently collected and recovered her feelings on the departure of Camillo and the sudden appearance of the Prince, she had determined herself to test the truth of the report of the Florentine. She would that night enter the Palace of La Scala, and meet, if there, the false Uberto face to face. Having accomplished this object, she urged the Prince not to remain longer in her house; hastening his departure on the ground that, his presence there once being known, it might prevent the approach of the expected information. After again agreeing that at midnight, or thereabouts, a secret portal in the palace should be open to her, and after pouring forth a profusion of thanks, which fell unheard upon her weary ear, the Prince bade her farewell.</p>
+<p>And now, for the first time that eventful day, the sculptor was alone. The thick shades of twilight were gathering around her, emblematical of the darkness that was hanging over her heart. “If it should be false,” she thought,—“all false, this most unlikely tale. Man is too apt, upon the slightest web of evidence, to condemn the innocent unheard. How many,—oh how many have died, accused and scorned, bayed and hunted to the scaffold, by their fellow-men, whose innocence was unavouched, till the lips of angels bent to welcome their pure brows to Paradise! So might it be with him,” she thought,—“still innocent.”</p>
+<p>A footstep in the chamber aroused her. “Who passes there?” she asked.</p>
+<p>“Julio,” answered the boy.</p>
+<p>“Within an hour of midnight, Julio, await me in this chamber. Where is my mask? We shall go forth together. You are trusty and faithful. To-night, and of to-night, be secret as the grave. Ha!”</p>
+<p>The door through which the Florentine had escaped was slowly and cautiously opened, sufficiently to admit of the introduction of the hand of a man holding a packet thrust on a stiletto, thereby intimating that pursuit or inquiry after the bearer might be dangerous.</p>
+<p>“You are safe,” said Francesca, aloud. “Julio, withdraw that letter from the dagger.”</p>
+<p>The astonished boy in a moment executed the task. The hand and the dagger vanished, and retreating steps were heard along the corridor.</p>
+<p>“Again, Julio,” said Francesca, “be secret. Give me that packet. I would be alone.”</p>
+<p>She tore the paper open. Her eye ran hurriedly over a list of several of the principal Veronese nobles. “No—no—no,” she muttered. It was the last: “Uberto Varro!” The scroll fell from her hand. She turned. The statue met her gaze. Some terrible remembrance, which had until that moment slumbered in her brain, awoke as she looked upon it. “It is all true!” she shrieked, and fell senseless to the earth.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">IV.</p>
+<p>It was nearly midnight. Forsaking his couch, the Prince of Verona paced anxiously to and fro in his silent chamber. Anon pausing at the window, he would gaze into the dimly lighted street, and gasp with quickened breath as some vision of his fancy cheated his restless senses. Then closing the curtain, start and grasp his sword; while sounds which seemed peculiar to that horrid night of watch came on in quick succession. The raised visor of a coat-of-mail fell with a harsh and jarring noise; an unseen hand was gathering up the drooping folds of the banner of his house. Now all is silent; and now he hears the tramp of armed men beneath the window. The flashing of their tall spears glares across his sight. It is the guard. They pass along, and all is silent again.</p>
+<p>Every precaution has been taken. The council has been summoned, and is at hand. The palace is filled with armed retainers. Midnight sounds. He counts the pealing chimes as they die away. He listens. The sculptor must be near.</p>
+<p>There was a dull, low noise in the corridor; another instant, and La Scala was at the door. He trembled as he opened it; but commending himself to Heaven, entered the gallery. All was silent. Suddenly the noise was repeated, and with greater violence. It came from the farther end of the corridor—from the chamber of his daughter. He rushed madly towards it. On gaining the door he found the noise within redoubled. A voice, the tones of which were familiar to him, loudly called him by name. Lights from all directions flashed through the galleries, and a host of alarmed followers were in a moment around their Prince.</p>
+<p>“What, ho!—my lord!—my lord!” arose in a piercing cry from within.</p>
+<p>“Break down the door!” shouted La Scala.</p>
+<p>His command was promptly obeyed, and the Prince rushed into the chamber of his child. He beheld a strange and terrible sight!</p>
+<p>Near the door stood a tall and noble figure—a woman masked; and at her feet, kneeling and shrieking for mercy, with dishevelled hair and tearful eyes, was his daughter, Bianca.</p>
+<p>The moment that the figure perceived him, throwing her mask aside, she flung herself before him, and in her he recognized Francesca di Rosate. Every deep and agonising passion seemed struggling for mastery in her almost distorted countenance. Scarcely able to articulate, she looked wildly and unconsciously around her as the nobles and attendants of the Prince crowded from the adjacent galleries into the chamber.</p>
+<p>“My lord!” she at length exclaimed.</p>
+<p>“Well, madam, whom sought you in my daughter’s presence? Methought your tidings were for me, not her?”</p>
+<p>“I sought a villain and a traitor here, my lord! Villain and liar has he proved towards me, and most ungrateful traitor to his Prince, nor have I sought in vain. Behold within yon chamber——”</p>
+<p>“She raves—stay her!” interrupted the weeping girl at Francesca’s feet.</p>
+<p>“Silence!” cried the sculptor, loudly. “Here, here! In this room, seated on yon couch but now a moment since, his arm entwined around your child!—yes, my lord, your pure and noble child—sat the base leader of a foul and daring plot against your life!”</p>
+<p>There was a slight confusion and a hurried movement among several of the nobles gathered around La Scala. One of them drew near to the sculptor.</p>
+<p>“Approach me not! Marco Pelavicino, I defy you! My lord and prince,” she called, “where are your guards—your council, too—the torture and the rack?—you’ll need them all to-night! There is a dark and base conspiracy at work against you and your state. The names of those involved, though noble as your own, I swore that you should have this night. I now avert the hour of massacre, and do denounce as base and coward villains the Count Azzone, Giorgio Gessano, Marco Pelavicino, Gheraldi Capello!—nay, shrink not back, sirs,—shrink  not back!” and passing through the crowd of astonished nobles, she denounced the conspirators fearlessly and bravely; until as though weary of her task, or that her mind was filled with matter of deeper interest, she threw the unfinished scroll of names at the Prince’s feet; and approaching a small door which formed the only outlet from the chamber, with the exception of the portal through which La Scala and his attendants had entered, and which led into a room in an adjoining tower, placing her hand firmly upon it, she cried, “And here, Lord of Verona! here, crouching and concealed, lies the chief—the head—the leader of these noble bravos! He whose knife was ready for your blood—the paramour of all that is pure, and beautiful, and free from taint—your daughter, yonder! Ay, spurn her from you! Come, glut your vengeance here. Remove this bolt, sirs!”</p>
+<p>Ere a foot was advanced towards the door, it was opened from within; and with a bearing bold and stately, Camillo the Florentine presented himself to the astonished gaze of Francesca and the surrounding crowd.</p>
+<p>One glance at his features sufficed; and the sculptor, rushing madly by him, passed into the smaller chamber. It was an oratory, and unoccupied. She threw the window open. The height from the river, on which the pale moonbeams were shining below, was terrific. Mortal man could not escape, she thought, from that outlet alive. A low and distant sound caught her ear. It might be fancy, but it seemed to be the measured strokes of a swimmer crossing the river. It died away.</p>
+<p>One of the Prince’s attendants at her side, summoning her instantly to the council-chamber, recalled Francesca to herself. Half frantic, she hurried forward. All was noise and confusion. The guards, at La Scala’s bidding, were arresting the conspirators. Soldiers, with their prisoners, were hurrying to and from the chamber. But amidst the din, the uproar, and the incessant disturbance around, one whisper caught her ear; it was the voice of Camillo, as his guards tore him from the room, assuring the almost senseless daughter of the Prince that Varro was safe.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;">V.</p>
+<p>The day had already dawned when the gates of the Palace of La Scala, rolling back on their ponderous hinges, gave egress to Francesca di Rosate, and a train of envious and sycophantic nobles, surrounding and attending the deliverer of their country to her home.</p>
+<p>She paused on the steps of her palace; and, imploring them to leave her, hastened to the chamber in which the statue was placed. Her eye was rayless, her look calm and vague, and her step dejected as she entered the room. Scarcely had she done so when a man, who was seated near one of the windows, rose and approached her. A faint cry escaped her lips. It was Varro—Uberto Varro!</p>
+<p>“At last—at last!” cried Francesca, as she threw herself into his arms; “I would have given my heart’s blood to have seen you here, and you are come. My heart is breaking, Varro!”</p>
+<p>“I pray you, lady,” answered Varro, in a calm and firm tone, and gently repulsing her—“I pray you to be calm: let go my arm!”</p>
+<p>There was a silence of a few moments in the chamber, alone interrupted by the choking sobs of Francesca.</p>
+<p>“You have betrayed us!”</p>
+<p>“I knew not—dreamt not!” she exclaimed, wildly.</p>
+<p>“You knew nothing—nothing, when rushing into the chamber of Bianca, you did denounce me!” shouted Uberto, at her side.</p>
+<p>“God! <emph>you</emph> were there, then?” shrieked Francesca, recoiling from him.</p>
+<p>“I was!”</p>
+<p>All was over now for her on earth, the last faint shadow of a hope to which Francesca had clung was destroyed: she endeavoured to speak, but could not.</p>
+<p>“I was there,” continued Varro. “The time was it had been shameful and base in me to have owned this to thee. Now false alike, it matters not. You have been false to me. Methinks,” he added, tauntingly, “the paramour of the Prince of Verona might have paused, ere by her presence there she polluted the chamber of his child!”</p>
+<p>“I do not comprehend you, sir,—my senses fail me,” she replied.</p>
+<p>“Oh, woman, woman! false and deceiving heart!” cried Uberto. “What! not one blush—one tear wrung by remorse? And can you calmly thus stand counterfeiting innocence,—a living lie? And so that regal forehead hath been stamped with shame, that star-bright being fallen down to depths of deepest sin! To-day,” he continued, bitterly—“to-day we were to wed; yet yester-eve you bade your paramour farewell with tears, such even as you shed but now when we did meet. I feel your most adulterous kiss yet burning on my lips!”</p>
+<p>“Hence!” shrieked Francesca.</p>
+<p>“Camillo found the Prince with you. He did!” cried Uberto; “and I—I was watching nigh your palace-doors when La Scala stole from you. Now, lady, wherefore shall we not wed? not that I love another, but because—because—”</p>
+<p>“Because,” she answered, sternly, and her lip quivering with scorn,—“because I am a woman and alone, and have no noble brothers of my house—none to claim kindred—no, not one brave soul to brand you as a false and most abandoned coward! You dare treat me thus! Oh, God!” she passionately cried, wringing her hands, “to be all friendless, with not claim of sisterhood amidst a thousand high and gallant spirits whose swords would leap from out their sheaths even at my slightest beck, could I forego my pride and claim a boon from men whose love I’ve coldly scorned!” and Uberto trembled as the outraged woman approached him; and, with a fearful distinctness, muttered in his ear, “Liar! I have not one friend on earth as man to man to meet you now, and boldly and with biting steel confound and crush you in the dust!”</p>
+<p>Varro made no reply, but, turning from her, was about to leave the chamber.</p>
+<p>A pang, a bitter and a fearful pang, that of approaching death, struck on her throbbing heart.</p>
+<p>“Stay!” she cried, faintly, “I am dying!”</p>
+<p>He paused near the door.</p>
+<p>“Your life is spared—I asked it from the Prince. He granted it—on—one condition—you quit Verona for ever. Stay!” she gasped, with difficulty.</p>
+<p>Again he paused.</p>
+<p>“The Lady Bianca, with my assistance, fled secretly this morning for Milan. Speed, you will meet her there! Stay!” she faintly gasped.</p>
+<p>But he was gone.</p>
+<p>“Uberto—your hand—here——” she feebly sighed. Supporting herself against the pedestal of the statue, and with one arm twined round its feet, and the other raised towards the door through which Uberto had just passed, the sculptor vainly waved it after him. “He will return,” she gasped, as she pressed her burning brow against the cold marble—“he will return—return to me—we shall never part. It has all been some hideous dream!” and she clasped the statue in the agony of death. “They try to tear you from me—in vain—in vain!” she gasped, weaker as her grasp slackened—“in vain!”</p>
+<p>She fell, or rather drooped lightly, on the steps of the pedestal. “In vain!” she again gently whispered, as her head bowed heavily, and her lips pressed the ground; and one low, mournful sob, the last from a broken heart, told that the sculptor of Verona was at rest for ever!</p>
+<p>And even at that moment rose in the regal east the sun surrounded with a panoply as bright and gorgeous as that which had marked his departing course on the preceding day, when high promise, genius, beauty, vivid hopes, and daring energies, now stilled for ever, had animated the lifeless brow on which his glowing rays again were shed.</p>
+<p>Alas! and it is ever thus, when Genius, Hope, and Energy, unite in woman’s heart, on earth she seeks companionship in vain.</p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>

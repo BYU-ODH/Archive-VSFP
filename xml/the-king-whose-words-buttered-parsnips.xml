@@ -1,0 +1,64 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"The King Whose Words Buttered Parsnips" by Anonymous, published in <title>The Man in the Moon</title>, vol. 3, issue 5 (1848), pages 257-258</title>
+    <author></author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Coryse Templeman, Claire Nielsen</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>"The King Whose Words Buttered Parsnips." <title>The Man in the Moon</title>, vol. 3, no. 5,  1848, pp. 257-8. Edited by  Coryse Templeman. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-king-whose-words-buttered-parsnips/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: Published just a few weeks after the 1848 “March Days” in Prussia, this political satire lampoons the actions of King Frederick William IV to quell the civic unrest that was unsettling many of the German states. In March, citizens had gathered in the capital in protest; troops responded, and three hundred civilians and thirty soldiers were killed. The King placated the people by calling off the troops and promising many things that would improve their current circumstances—a promise few believed he intended to keep.</p>
+<p>Though the brief story is based on historical events, it is written as a humorous fable, an “Apologue, dedicated to Prussia,” depicting the people as gullible and the King as self-serving.</p>
+
+   </div>
+  </front>
+  <body>
+<p style="text-align: center;">(An Apologue, Dedicated to Prussia.)</p>
+<p>Now that there was once a King who had a silly people, who believed that fine words did butter parsnips. The King was quite aware of the peculiarity of his subjects; and when they held up their social parsnips to be buttered by political rights, he always made them a fine speech, and told them that he was their father, and that he would give them plenty of butter—some day soon; upon which the foolish people shouted, “God save our worthy King!” and went home and contentedly eat their parsnips dry.</p>
+<p>Now, this farce was many times repeated—so many times, that at length the people, silly as they were, began to get tired of it, and so one day they rose up in right-down earnest to seek real butter for their parsnips. Upon this, the King commanded his cavalry, and his infantry, and his artillery to mow down his dearly beloved children, which they did by thousands; but the people still fighting valiantly, drubbed the troops, and held the city in their possession, and the King in their hands.</p>
+<p>Out he came with his fine buttering words again, and cried over the dead bodies of those whom he had caused to be slain, and told the people that he loved them better than ever, and that they should have butter with their parsnips the day after to-morrow; and the people, who upon this subject had no more brains in their skulls than there is in the insides of boiled pumpkins, shouted out again “God save our worthy King!” and went home, and once more eat their parsnips dry.</p>
+<p>Next day the King convened them all. He looked at their bayonets, and knew that his troops were beaten and dispersed, and that the people could kick him out of his palace whenever they thought proper. So he asked them whether he was not a dear good old King, and a loving father, to give them whatever they wanted without the least compulsion, but quite spontaneously? And then he enquired whether they did not think such a capital King would make a still better Emperor? Would it be believed that the donkeys of people shouted “Yes! yes! God save our worthy Emperor!” So the King laughed in his sleeve at the gulls he had to deal with, and made them all manner of promises; kindly consenting to give them, as great favours, things which they could have taken without leave—asked or received. Upon which the people again went home, and again eat their parsnips dry.</p>
+<p>We are not, however, without great hopes that very soon this foolish people will have its eyes opened to the respectable Humbug who has been deceiving them, and that they will cause him to march out of his kingdom, with every drum in Germany playing the “Rogue’s March” at his heels.</p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>

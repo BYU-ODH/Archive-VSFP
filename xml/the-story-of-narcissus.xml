@@ -1,0 +1,64 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"The Story of Narcissus" by Anonymous, published in <title>The Man in the Moon</title>, vol. 2, issue 3 (1847), pages 123-125</title>
+    <author></author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Becky Tucker, Claire Nielsen</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>"The Story of Narcissus." <title>The Man in the Moon</title>, vol. 2, no. 3,  1847, pp. 123-5. Edited by  Becky Tucker. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-story-of-narcissus/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: As one article in a series of “Classic Tales” in <emph>The Man in the Moon</emph>, “The Story of Narcissus” narrates the classical Greek myth of a beautiful man who falls in love with his own reflection. Yet this version recounts the story with an important twist: it is Narcissus’s stupidity rather than his vanity that causes his death. In lampooning the myth, the author of this witty retelling brings a touch of the ludicrous to the classic tale.</p>
+
+   </div>
+  </front>
+  <body>
+<p>IN THAT early period of the world’s history in which the classic poets delight to lay the foundation of their tales, when the power of turning human beings into vegetables was still exercised by the gods, when the forests were inhabited by tawny individuals termed Satyrs infinitely better tempered and more hilarious than any satirical productions of modern times, but whose principal infirmity appears to have been a delusion that they could become intoxicated by squeezing grapes into their mouths (a theory which becomes absurd when reduced to practice); when Centaurs, an ingenious combination of the human with the equine animal, roamed the woods, when nymphs found lodging as well as board in the interiors of trees, and when more extraordinary races of human beings were to be seen gratis than have been met with in our own time at all the Greenwich Fairs that ever were,—there lived a youth named Narcissus.</p>
+<p>He was not a wise child, and believed a river named Cephisus to be his father. As for his education, even for the time in which he lived (many centuries before the invention of anything) it was remarkably deficient. His costume was of the high classic style of art, consisting of a red table-cloth thrown over one shoulder, and a short calico petticoat, fastened round the waist by a belt, studded with imitation coffin-nails. His shoes were constructed on the solar-system of the period, consisting only of a pair of leather soles tightly fastened to his feet with red tape, tied in a knot just above the ancles.</p>
+<p>His intellect was of the lowest order, and his ideas were generally in the highest disorder. The wise maxims of the ancient philosophers, specimens of which are to be met with in modern copybooks, and are so much more remarkable for self-evident truth than sparkling vivacity, had never expanded his tender mind. He has been, by some, supposed to have been handsome, but the fact (about to be related) adduced in evidence of this supposition, of his having fallen in love with his own portrait in water colours, tends more to prove his stupidity than his beauty.</p>
+<p>The first recorded incident of the life of Narcissus, is his having fallen in love with an Echo, which he accidentally discovered while making a noise to amuse himself. He immediately, with the sagacity peculiar to the period, instituted a search after the supposed owner of the voice, but in this he was by no means successful, though he had a very long run, while his futile chase of a mere sound is by no means a proof of his sound sense. Narcissus, however, to cover his disappointment, reported that Echo was a nymph, who having formed an unrequited attachment to himself, had pined away in consequence, until nothing but her voice remained, a tale which found extensive credence at the time, but has since been doubted upon anatomical principles.</p>
+<p>One morning, whilst lying on his breast by the side of a small piece of stagnant water, Narcissus amusing himself by elevating his heels alternately in the air, and fishing for tittlebats, became absorbed in his own reflections.<note type="annotation" resp="editor" place="end" anchored="true">A tittlebat is a stickleback, a type of small fish.</note> These soon assumed a tangible shape, as, looking into the pond to see whether he were likely ever to have a nibble, he beheld a form which, in his vanity and perfect ignorance of optics, he imagined to be that of some water nymph captivated by his personal appearance.</p>
+<p>Having beckoned to the shade, it replied by beckoning to him again, when, crawling forward to embrace it, the bank failed, and Narcissus experienced a shocking reverse by tumbling head over heels into the pond. As he had never in all his life learned anything, of course he didn’t know how to swim; and his want of cleverness presented a fatal hindrance to his “coming out.” Still, as the water was only about three feet deep, he might have escaped; but as he floundered about in the utmost state of bewilderment, a quantity of duckweed entangled his legs and he fell, making an impression of his nose in the mud at the bottom. “Help me! I drown!” was the last exclamation of the terrified youth, while the heartless Echo, catching sweetly the sound as it fell, repeated.—“Drown.”</p>
+<p>Thus perished Narcissus, a victim to his ignorance of physical science, but the gods, in consideration no doubt of his having been nipt in the bud, and cut off in the flower of his youth, kindly transformed him into a daffodil, thus enabling him once in every year to resume his pristine seedy appearance.<note type="annotation" resp="editor" place="end" anchored="true">For “resume” the original reads: “esume.”</note></p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>

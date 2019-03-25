@@ -1,0 +1,61 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"Good Advice" by Anonymous, published in <title>The Chatterbox</title>, vol. 18, issue 2 (1883), page 12</title>
+    <author></author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Sara Herald, Rachel Housley, 
+Heather Eliason</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>"Good Advice." <title>The Chatterbox</title>, vol. 18, no. 2,  1883, pp. 12-0. Edited by  Sara Herald. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/good-advice/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: In this brief story, an anonymous narrator recounts an event attributed to John Newton (1725-1807), a former slave ship captain who experienced a spiritual conversion and eventually became a clergyman and an outspoken advocate for ending the slave trade. He is best known for writing the hymn “Amazing Grace.”</p>
+<p>&nbsp;</p>
+
+   </div>
+  </front>
+  <body>
+<p>A Lady once applied to the Rev. John Newton for advice and consolation. Her distress arose from ill-natured remarks which had been made upon herself, and her dread of future annoyance. After listening to her tale Mr. Newton said, ‘I will tell you a story. One day this winter, as I was going to visit some sick persons at a distance, I found a good deal of snow in the streets, and a number of idle boys throwing snowballs at people as they passed along. I made up my mind to pass them as well as I could; I did not, however, escape them, for they attacked me from behind, but I took no notice and hastened on, and was soon out of their reach, and was not hurt by the balls which struck me.</p>
+<p>‘On my return I came to the same troop, who were still bent on mischief. I prepared to be assailed, but as I drew near to them I heard one say, “Here <emph>he</emph> comes again, let us have at him!” but another said, “No, do not let us snowball him, for he took no notice of us before.” So I passed on and saw no more of them. Now, Madam, if you take no notice of these ill-natured things, the persons who have said them will cease to give you cause of complaint.’</p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>

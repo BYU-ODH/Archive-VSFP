@@ -1,0 +1,94 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"The Abbot and the Black Penitent" by Anonymous, published in <title>Bentley's Miscellany</title>, vol. 4, issue 21 (1838), pages 261-265</title>
+    <author></author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Scott Lee, Leslee Thorne-Murphy</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>"The Abbot and the Black Penitent." <title>Bentley's Miscellany</title>, vol. 4, no. 21,  1838, pp. 261-5. Edited by  Scott Lee. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-abbot-and-the-black-penitent/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: In this story, a narrator relates folktales associated with a small, isolated chapel in Brittany (a region along the northwestern coast of France). These tales include the misdeeds of a vicious Bluebeard and the temptations of a prideful Catholic priest. In this telling, the stories function both as Gothic adventure fiction and as cautionary tales depicting the dangers of pride.</p>
+
+   </div>
+  </front>
+  <body>
+<p>On the Auray road, a few miles from Vannes, the poorest and most miserable prefecture in France, the traveller may observe a chapel built, no one can exactly say when, upon the site and from the fragments of the ruins of an ancient church, which was no doubt destroyed during some of the civil wars to which Brittany has been so frequently the prey. This chapel is dedicated to the Magdalen, and served for a long time as the hermitage of a converted Jew, who here closed his life in the odour of sanctity. Its last tenant was an aged hermit, who held before the Great Revolution a high rank in the French army, and who here sought an asylum from the cares and annoyances of the busy world, and here hoped to find consolation for the treachery of an early loved one on whom he had doted; and here in silence and prayer he passed the few remaining days still left him.<note type="annotation" resp="editor" place="end" anchored="true">In this case, the Great Revolution would be the French Revolution, 1789-99.</note></p>
+<p>These, however, are only the more recent associations connected with the place: those of a remoter period are much more romantic and poetical. On this spot was accomplished the unhappy fate of Trifine, the only daughter of Count Guerech of Vannes, about the commencement of the sixth century. Her father, in spite of the advice of Saint Gildas gave her in marriage to Comorra, a sort of Breton Blue-Beard, who killed his wives the instant they showed signs of probable maternity, prompted by his superstitious dread of the accomplishment of a prophecy, for a witch had once foretold, that one of his children would be the cause of his death.</p>
+<p>Trifine, aware of this prediction, and of the dangers it would entail on her, concealed her pregnancy from the eye of her suspicious husband until the time of her delivery, when she instantly fled with her new-born infant to the castle of her father, whose protection she claimed against her tyrant husband. But Comorra, speedily apprized of his intended victim’s flight, pursued her <emph>à pointe d’etrier</emph>, (in the words of one of the chroniclers,) and overtook her in the suburbs of Vannes in a thicket by the road side, where she had vainly endeavored to find shelter until his first rage had expended itself. The fierce husband struck off her head with his sword, and turned his steed towards his castle. Scarcely had he advanced a step when the animal suddenly reined himself up, and obstinately refused to advance a step homewards. Comorra endeavored to dismount, but an invisible grasp retained him in his saddle. It was in fact Saint Gildas, who, passing at the moment, performed the miracle.</p>
+<p>At sight of the bleeding corpse, and the assassin detained by some mysterious power prisoner near his victim, Saint Gildas, full of admiration at the decrees of Providence, knelt, and, after a long and fervent prayer to God and the Virgin, rose and made the sign of the cross over the murdered body. Trifine instantly rose up full of life and health; while Comorra was struck with leprosy, and afflicted with the most insupportable torments. He bowed in humility to the hand which had thus punished him, confessed his sinfulness, and made a vow that he would build a church and convent for lepers on the site of these miraculous occurrences. Saint Gildas, touched with compassion at these proofs of repentance, again prayed to Heaven, and the penitent was restored to health. After he had been thus made whole again, he did not, as many perhaps would have done, forget the vow he had made in his affliction: on the contrary, he bestowed all his wealth upon the Church, and retired to a neighbouring monastery, where he spent the remainder of his days in fasting and prayer. A Latin ballad is still sung at Auray, which preserves this tradition: it begins with an invocation to Saint Gildas, as follows:</p>
+<p class="centered">“Sancte Gildas, te<lb></lb>
+Qui Trifinam suscitasti,<lb></lb>
+Quam tyrannus occiderat<lb></lb>
+Inter sylvarum pascua,”&amp;c.<note type="annotation" resp="editor" place="end" anchored="true">Latin for: “St. Gildas, thou who raise Trifine, as the tyrant killed between woods and pastures.”</note></p>
+<p>Although the Devil had thus lost one whom he considered a safe customer, still in no way did it discourage him; but, on the contrary, it rendered him only the more determined to seek his revenge for his loss of his prey of which Saint Gildas had, in his opinion, unwarrantably defrauded him. One of his attempts in that way is recorded in the following story, which the writer himself heard told one evening last year within the ruins of Magdalen. Unluckily for the reader, he cannot bestow upon the narration all the accompanying charms which hearing it upon the spot conferred—the time, the place, the poetical language of the narrator, (a young girl of Brittany,) and the deep conviction she seemed to have of the truth of the story which she told, picturesquely supporting her hand on the fragments of a broken cross, her voice full of deep emotion, increased by a feeling of superstitious terror, in which many of the hearers could not avoid participating,—all contributed to render the story one of those which, once heard, are never forgotten.</p>
+<p>The wind (thus ran her story) was howling in awful concert with the roarings of the thunder, and the rain dashed in torrents against the ancient windows of the church of the blessed Magdalen; but so wholly engrossed was an aged priest, who walked slowly through the nave and aisles, that it seemed as if he heard not the storm outside, This was Father Kernoeck, the rector, who, as soon as night was fallen, had quitted the monastery, and was silently perambulating his new church, then just finished, and awaiting consecration on the morrow at the hands of the Bishop of Vannes, the sainted Gildas. He frequently stopped to admire each part of the edifice. “Here,” thought he, “will the mysteries of the holy mass be celebrated;—here from the pulpit will my voice be heard by delighted congregations, preaching the sacred word for the salvation of sinners;—in this stall, seated upon a throne ornamented with the most costly embroidery, shall I be seated on high during the holy office;—I, I alone am the possessor, the king of this rich and splendid building! Mine are the spandrils, the arches, the windows, the altar,—the chiselled columns supporting the massive roof are mine, and mine only! To me belong the thousand fantastic figures which grin from the corbeils and festoon the drapery of the high altar; which show their grotesque features in every nook, and appear to start out from the pedestal of each pillar,—the gilded statues of the saints,—the banners which are agitated by the violence of the tempest,—the silver candlesticks, the tapestry, the pictures,—all, all are mine!”</p>
+<p>Such were the thoughts that held possession of his mind as he flung the light of the horn-lantern which he bore in his hand, upon each object which for the time engrossed his whole attention. He approached each, drew back, and returned for a more minute examination, until the least details were deeply impressed on his memory. Nor did he feel during all this time the slightest symptoms of fatigue, although the perspiration stood upon his forehead, and his breath nearly failed him as he stood in front of splendid confessional,—a <emph>chef-d’oeuvre</emph> of sculpture, over the portal of which he read in letters of gold, “THIS IS THE CONFESSIONAL OF THE RECTOR.”</p>
+<p>The artist had carved in the dark wall which composed the confessional the woman’s triumph over the serpent; at the upper part he had depicted the Madonna, full of that serenity which painters so love to give her, her eyes raised to heaven, her hands joined in the attitude of prayer, and her foot firmly fixed upon the forehead of a gigantic devil, already prostrate, and whose limbs trembled with terror. The priest gazed for some time in complacency on his confessional, and then felt a natural desire to ascertain if its interior corresponded in beauty and taste with the outside. Impatient to prove the elasticity of the cushions of that seat which he was in future to occupy, he placed the lantern amidst one of the groups of sculpture which ornamented the pilasters, and flung himself on the sacerdotal seat, into the soft cushion of which he sunk not without voluptuousness. He rested his head carelessly on the rich velvet hangings, stretched out his feet upon the stool studded with golden nails, and found himself altogether so comfortable, that he speedily forgot his fatigue, and surrendered himself to “thick-coming fancies.” He first thought of the crowds who were sure to come to each side of the confessional to humble themselves before him; the priests of the church, the wealthy citizens, the haughtiest seigneurs even,—all with humble voice and repentant lips supplicating his advice, and regulating their conduct by his directions.</p>
+<p>While thus indulging his imagination, he suddenly heard a voice on one side, which announced that the speaker sought his ghostly assistance. He mechanically withdrew the bolt which fastened the side-window; at the same instant a most violent clap of thunder was heard; the lightning illuminated the whole church, while a strong smell of sulphur nearly took away his breath. When he re-opened his eyes, which terror had closed for a moment, he beheld a stranger kneeling beside him in the confessional.</p>
+<p>The priest hesitated for a moment to hear the confession of one thus mysteriously presented to him, particularly in a church hitherto unconsecrated. But the half-formed word of dismissal died away upon his lips; an uncontrollable panic retained him in his seat, and he made the customary sign of the cross preparatory to hearing the confession. At this preliminary the penitent uttered a deep groan, while his whole body trembled: he speedily, however, recovered from this unusual emotion, and began to repeat the prayers, but in a mysterious accent, and, stranger still, backwards, commencing with “Amen,” and concluding with “Confiteor.”</p>
+<p>The priest then questioned him upon the Seven Capital Sins. “Have you been guilty of pride, covetousness, envy, anger, gluttony, lust, or sloth?”</p>
+<p>“Whence should I feel the prompting of any of these vices? I, who am so powerful that possess the power of gratifying my every wish and fancy?”</p>
+<p>“You!” responded the priest, in utter astonishment.</p>
+<p>“Yes, I! Behold the immortal crown which irradiates my forehead! My youth shall endure for ever and ever. At my finger-touch, the stone becometh gold, and the dust is changed into diamonds.”</p>
+<p>He extended his hand, and the column which supported the lamp was instantly converted into the purest gold, and the flags of the tower were sprinkled with diamonds.</p>
+<p>“Thou seemest astonished!” said the stranger. “What wilt thou say when thou hearest that upwards of twenty centuries have elapsed since the day on which I was born? And, behold, has time in any way diminished my youth, or the beauty of this brow?”</p>
+<p>While he spoke a vaporous light, like the softened effulgence of the full moon, played over the brow of the unknown. The aged priest, spell-bound, and full of alarm, gazed with surprise on the noble and commanding features they indicated. The priest raised his hands in amazement, and in doing so the blessed cross, which he was holding, fell to the ground, and rolled along the nave. Whereever it touched as it rolled along, the diamonds created by the magic power of the stranger disappeared, and resumed their first and true appearance of dust.</p>
+<p>“Wilt thou,” said the penitent, “become young again, and continue so for ever? Wishest thou for boundless wealth? Desirest thou to share my power—my glory—my happiness?”</p>
+<p>There was something in the tone with which the last word was uttered so full of bitter irony that the good priest muttered, “Begone! leave me, deceiver!”</p>
+<p>“Deceiver! <emph>I</emph> deceive thee! Listen: for the present let things remain as they are between us. I give thee an hour to make trial of my promises,—<emph>one hour</emph>; not a second more, not a second less.”</p>
+<p>While he spoke he stretched forth his hand towards the priest, who at the moment felt an inexplicable change take place within him. He rushed forth from his confessional. Wonder of wonders! the figure which cast its shadow on the walls was no longer that of an aged man, but of an elegant and youthful cavalier! He felt the warmth and strength of youth flowing through his veins; the few scattered locks which has whitened his brow were changed into black and perfumed curls; his small white hand showed a delicate formation, such as a young maiden would be but too proud to possess. He walked a few steps, and at each movement, at his least wish, the most extravagant desires of his imagination were instantly realized. He wished for power, riches, pleasure; pages, valets, and knights knelt at his feet to receive his commands! Beautiful virgins, in luxurious attire, smiled upon him in languishing beauty; palaces sprung up in the midst of extensive gardens; and he wandered amidst these glorious objects, young, smiling, and eager, his heart beating with new emotions and desires. Suddenly the unknown of the confessional appeared.</p>
+<p>“Well!” said he; “dost thou wish to enjoy all these pleasures? Hasten, then; for a few moments more and they will vanish from thee! Thou hast but a few minutes left for their enjoyment!”</p>
+<p>“A few minutes! A quarter of an hour has not elapsed since I beheld thee last!”</p>
+<p>“In thy sluggish life, priest, time has walked thus languidly; but in our life of happiness it flies like an arrow—ay, swift as thought! But, what matters, since it revives unceasingly, and its duration is without end? But, hasten; for when the sand shall have ceased to run in this hour-glass it will be no longer time.”</p>
+<p>“What must I do?”</p>
+<p>“Curse this church, which you were to have blessed to-morrow, and do me homage as thy sole master and only God!”</p>
+<p>The priest shudderingly turned away his head.</p>
+<p>“Go, then, weak and cowardly mortal; become again what thou wast; poor, old, and in the jaws of death!” cried the tempter.</p>
+<p>The priest now felt the blood which ran a moment before impetuously in his veins curdle, and slowly circulate; he beheld his hands grow stiff, and all the brilliant objects which surrounded him become more and more distant—fast disappearing.</p>
+<p>The priest made a movement towards the demon; but his foot struck against the cross which had fallen from his hands: he raised and kissed it. Instantly all around him disappeared, with a hideous and almost insupportable noise; and he heard the heavenly voice of a woman, which thus addressed him:—</p>
+<p>“Frail creature! Behold to what dangers thine imprudence and pride have exposed thee! But for my intercession and watchfulness over thee thou wouldest have become for ever a prey to the devil. Imprudent priest! who gavest thyself up to the sinful delight of admiring thy fine church, and splendid confessional, instead of passing the night in prayer and peaceful slumber! Farewell! watch and pray until the morning. I am Magdalen, the patron of this church.”</p>
+<p>You may imagine the terror and joy of the old priest at his escape, as well as his gratitude to the divine protection to which he owed his salvation. He prostrated himself in the confessional, and did not cease pouring forth <emph>oremuses</emph> until day broke in upon it, and shewed him on the spot where the demon had knelt, two marks burnt into the stone by the knees of the evil one.</p>
+<p>Tradition adds, that the rector had the soft and voluptuous cushions, on which he had reposed the night of his temptation, replaced by a plain seat, studded with sharp-pointed nails, on which he sat to hear the confession of his penitents; and that he died, in the fulness of grace, three years after the consecration of his church. Towards the close of the fifteenth century there was still exhibited in this chapel the penitential seat used by St. Kernoeck; but the precious relic unluckily disappeared amidst the civil wars which about that time raged in Brittany. It is not supposed that the sacrilegious thief who stole it, whoever he was, ever sat upon it himself.</p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>

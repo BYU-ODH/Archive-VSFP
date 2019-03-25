@@ -1,0 +1,72 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"A Page by Frederika Bremer" by Frederika Bremer, published in <title>The Man in the Moon</title>, vol. 3, issue 4 (1847), pages 194-195</title>
+    <author>Bremer, Frederika. </author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Dallas Hadley, Claire Nielsen</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>Bremer, Frederika. "A Page by Frederika Bremer." <title>The Man in the Moon</title>, vol. 3, no. 4,  1847, pp. 194-5. Edited by  Dallas Hadley. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/a-page-by-frederika-bremer/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: “A Page by Frederika Bremer” appeared in <emph>The Man in the Moon</emph>, a journal that satirized everything from politics to fashion. In this case, the editor is mocking the everyday realist style and content of Frederika Bremer’s fiction. Bremer was a Swedish author whose translated sketches and novels were very popular during the 1840s in Britain.</p>
+
+   </div>
+  </front>
+  <body>
+<p>So Minna saw the Major coming down the street, on the pavement which he chose to walk upon, because it was not so dirty as the roadway; and presently, when he arrived at the door, he lifted up his hand, and taking hold of the knocker, struck it against the brass plate beneath, so that Minna guessed that he wished for admission—and she was right; indeed, her shrewd spirit told her many things that other people would not have thought of. And so, in a minute and a half or so, the door of the parlour opened, and the Major entered, taking off his hat as he did so—for military officers are generally well bred, and do not keep their hats on in parlours, where there are ladies.</p>
+<p>Then this conversation took place:—</p>
+<p>“Miss Minna,” said the Major, “I hope I see you well.”</p>
+<p>“Pretty well, thank you, Major,” replied Miss Minna.  “I hope you are the same.”</p>
+<p>“Well,” retorted the Major, “I don’t think I can complain;” and then added, with peculiar slyness, “You know, Miss Minna, that I am not so young as I once was. Ha! ha! ha!”</p>
+<p>Minna and the Major both enjoyed the joke, laughing heartily for some minutes; and then with some difficulty recovering her gravity, Minna said, “Ah! Major, you are always a wag.” And they laughed again.</p>
+<p>“But enough of jesting,” said the Major, taking a chair, carefully spreading his coat-tails on either side, and sitting down between them; “It is a fine day.”</p>
+<p>“It’s rather cold,” said Minna.</p>
+<p>“Why, I don’t know. Spring is not yet far advanced,” replied the Major.</p>
+<p>“This is the 30th of March,” urged Minna.</p>
+<p>“Pardon me—the 31st,” interrupted the Major. “See; here is to-day’s paper,”—and he produced the <emph>Stockholm Telegraph</emph>—“which is dated the 31st.”</p>
+<p>“Ah! true,” observed Minna; “I had forgotten. If this is the 31st, yesterday must have been the 30th of March.”</p>
+<p>“True,” answered the Major, pursuing the same line of thought; “and thus it naturally follows that to-morrow is the 1st of April.”</p>
+<p>“Major,” said Minna, solemnly—for she felt that she was not in the presence of an ordinary intellect—“Major, you are an oracle.”</p>
+<p>[NOTE.—This is the sort of stuff which Miss Bremer’s admirers call “natural;” and to a certain and verbal extent we agree with them; for no one but a “born natural” could have written anything like it, and published the “niaiserie” afterwards.]<note type="annotation" resp="editor" place="end" anchored="true">Niaiserie is “silliness."</note></p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>

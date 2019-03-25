@@ -1,0 +1,72 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"The Tender-hearted Society" by Beech-Holme, published in <title>Early Days</title>, vol. 12, issue 2 (1898), page 18</title>
+    <author>Beech-Holme. </author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Lauren Carr, Chelsea Holdaway</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>Beech-Holme. "The Tender-hearted Society." <title>Early Days</title>, vol. 12, no. 2,  1898, pp. 18-0. Edited by  Lauren Carr. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-tender-hearted-society/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: “The Tender-hearted Society” is a didactic tale about the importance of spiritual conversion in a Christian girl’s life. It is typical of the material included in <emph>Early Days</emph>, offering evangelically-minded moral instruction for young children.</p>
+
+   </div>
+  </front>
+  <body>
+<p>It was a very cold morning in early February, and Gladys Burton dressed herself rather grumblingly; but her face cleared as she remembered what had happened the evening before. It had been Sunday, and Gladys had made up her mind to be a follower of Jesus Christ; and now, as the remembrance came back to her, her lips began to smile and happy tears filled her eyes. “I must follow Jesus, all the while, at school as well as at home,” she whispered to herself; and downstairs she went with an earnest look upon her face.</p>
+<p>Before breakfast came family prayer, and Gladys looked up with wonder at the words her father was reading, for they were her own daily portion. The word which impressed her most was one she had never seemed to notice before, “tender-hearted.” “Be ye kind one to another, tender-hearted.”<note type="annotation" resp="editor" place="end" anchored="true">Ephesians 4:32.</note> Gladys pondered over that word on her way to school. Surely it must mean feeling another’s troubles, and sympathising with others’ sorrows. The way seemed shorter that morning, and Gladys forgot all about the cold, unpleasant weather.</p>
+<p>At luncheon time Elsie Rundall and Lulu Foster ran to her as usual, and they were soon busily talking as only little girls can talk.</p>
+<p>“Isn’t she an ugly girl?” said Elsie, showing whom she meant by the little nod towards a girl about their own age, who was walking, in a forlorn fashion, alone at the other side of the playground.</p>
+<p>“Mother says we should call no one ugly,” said Gladys.</p>
+<p>“Well, she’s <emph>extremely</emph> plain,” said Lulu.</p>
+<p>“I don’t think she is,” put in Gladys. “Her clothes are plain and dull-looking, but she can’t help that, and I don’t think any of us would look pleasant had we been nearly two weeks at school without any one caring to play with us or talk to us.”</p>
+<p>“I’m sure I have not been unkind to her,” murmured Elise rather reproachfully.</p>
+<p>“Nor I,” said Lulu.</p>
+<p>“No, and I have done nothing to her,” said Gladys; “but we have all let her alone, and we ought to have tried to love her.”</p>
+<p>“Gladys, you <emph>are</emph> queer,” they said.</p>
+<p>“I don’t think I am, but I will tell you all about it.”  And with flushed face and downcast eyes Gladys told about Sunday evening, and all her new wishes and hopes.</p>
+<p>“It sounds <emph>beautiful</emph>,” said Elsie, with a long sigh.  “I should like to follow Jesus, too, Gladys.”</p>
+<p>Lulu said nothing, but her hand stole gently into her friend’s, and somehow, without any more talking, the little girls went across to the lonely little Daisy, and she was admitted into their friendship. And it was only the beginning of good things amongst Miss Mason’s scholars. Without planning it or knowing it in any way, Gladys had that morning started a “tender-hearted” society, and those who joined it were always carrying out some work of love on those who were not so happy as themselves.</p>
+<p>One of their first ideas—and oh! I cannot tell you what pleasure it gave to the little kind-hearted girls themselves—was to send a valentine to each of the girls in the school who seemed poorer and more friendless than themselves. Gladys and Lulu prepared them and painted them in their very best style, with loving words of greeting. They were the nicest valentines I ever heard of, giving such pleasure both to giver and to receiver.</p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>

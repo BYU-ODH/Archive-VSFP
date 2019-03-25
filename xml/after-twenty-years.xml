@@ -1,0 +1,109 @@
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>"After Twenty Years" by Ada M. Trotter, published in <title>The Argosy</title>, vol. 51, issue 2 (1891), pages 156-161</title>
+    <author>Trotter, Ada M.. </author>
+    <respStmt>
+     <resp>Originally contributed by</resp>
+     <name>Sul Hyoung, Nicole Clawson, 
+Lesli Mortensen</name>
+    </respStmt>
+   </titleStmt>
+   <publicationStmt>
+    <distributor>Brigham Young University</distributor>
+    <address>
+     <addrLine>Provo UT 84602 USA</addrLine>
+    </address>
+    <availability>
+     <p>Creative Commons BY-NC-ND 3.0</p>
+    </availability>
+    <date when="2019">2019</date>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl>Trotter, Ada M.. "After Twenty Years." <title>The Argosy</title>, vol. 51, no. 2,  1891, pp. 156-61. Edited by  Sul Hyoung. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/after-twenty-years/.</bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <projectDesc>
+    <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
+   </projectDesc>
+   <refsDecl>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+   </refsDecl>
+  </encodingDesc>
+  <revisionDesc>
+   <list>
+    <item>
+     <date when="2019-03-18">18 March 2019</date> last updated.
+    </item>
+   </list>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="introduction">
+    <p>Introductory Note: Ada M. Trotter’s “After Twenty Years” is a rural tale of love lost and found. It focuses on the young love between the beautiful, immature Kitty; the charismatic Joel; and the steadfast, but quiet Elihu. The narration takes place twenty years after a fateful event that changed Kitty, Joel, and Elihu’s lives forever.</p>
+<p>Trotter casts her story as a dramatic monologue with minimal contributions from an omniscient narrator. Though her female narrator responds to the questions of a male passerby, the reader never hears his voice.</p>
+
+   </div>
+  </front>
+  <body>
+<p>“MAY you come in and rest, you ask? Why of course you may. Take this rocking-chair—but there, some men don’t like rockers. Well, if so be you prefer it, stay as you be, right in the shadder of the vines. It’s a pretty look-out from theer, I know, all down the valley over them meadow lands—and that rushing bit of river.</p>
+<p>“You ask me if I know’d one Kitty Larkins, the prettiest gal in the county, the prettiest gal anywheres, you say. Yes, sir! I know’d her well. Dead? Yes, sir, Kitty—the bright, gay creature folks knew as Kitty Larkins died this day twenty years ago.</p>
+<p>“Do I know how she died and the story of her life? I do well; I do; p’raps better nor most. You want to hear about her; maybe you would find it kind of prosing; but there, the afternoon sun <emph>is</emph> pretty hot, and the haymakers out there in the meadows have got a hard time of it.</p>
+<p>“What’s that! Don’t I go and lend a hand in the press of the season? Well, I don’t. Not for twenty year. There’s them as calls it folly, but the smell of the hay brings it all back and turns me sick. You say you can’t believe such a fine woman as me would be subject to fancies; you think I look too young, do you, to be talkin’ this way of twenty years ago. Wall, there’s more than one way of counting age. Some goes by grey hairs, some by happenings. But this that came so long ago is all as clear—clear as God’s light upon the meadows there.</p>
+<p>“But if you will have the whole story, let’s begin at the beginnin’, and that brings you to the old school-house where them three, neighbours’ children they was, went to school together. There was Kitty of course, and Elihu Grant and Joel Barton, them was the three that my story’s about.</p>
+<p>“ ’Lihu was always a big, over-grown lad, with a steadfast, kind heart, not what folks called brilliant; he warn’t going to be extraordinary when he grow’d up, didn’t want to be, so fur as I know; he aimed to be as good a man’s his father, nothing more, nothing less. Good and true was ’Lihu; all knew that, yet his name was never mentioned without a ‘but,’ not even by the school marm, though she said he was the best boy in her school.</p>
+<p>“Kitty looked down some on ’Lihu, made him fetch and carry, and always accustomed herself to the ‘but,’ as if the good qualities wasn’t of much account since they could not command general admiration. Yes, this had something to do with what follered; I can see that plain enough. Still, I know she loved ’Lihu from babyhood deep down in her heart of hearts——</p>
+<p>“Anything wrong, sir? you give me a turn moving so sudden like. Let me see, where was I? Oh, talkin’ about them boys. Well, let’s get on.</p>
+<p>“I’ve given you some idea of what ’Lihu was like, but seems to me harder to tell about that Barton boy, that gay, handsome, charming Joel, that kept the whole country alive with his doings and sayings from the time he could trot about alone.</p>
+<p>“Wall! he <emph>was</emph> bright was Joel, and ’twas no wonder that his parents see it so plain and talk Joel day in and day out whenever they got a soul to listen to ’em. Kitty grew up admiring him; there warn’t no ‘but’ in speaking of Joel. He done everything first class, from farm work to his lessons, so no wonder his folks acted proud of him and sent him to college to prepare for a profession.</p>
+<p>“Wall, his success at college added some to his notoriety, and his doings was talked back and forth more’n ever.</p>
+<p>“Then every term kind of altered him. He come back with a finer air, better language and a knowledge of the ways of society folks, that put him ahead of anyone else in the valley; while poor ’Lihu was just the same in speech and manner, and more retiring and modest than ever; and, though he was faithfuller, truer and stronger hearted than he’d ever given promise of being, folks never took to him as they did to young Joel.</p>
+<p>“But I must go on, for young folks grow up and the signs of mischief come gradual like and was not seen by foolish Kitty, but increasing every time Joel come home for his vacations. Of course Kitty was to blame, but the Lord made her what she was.</p>
+<p>“Yes, I can speak freely of her now, because, as I said before, this careless, pretty Kitty died twenty long years ago.</p>
+<p>“Not before she married Joel, you ask? Well, of all impatient men! really I can’t get on no quicker than I be doin’, and if you’re tired of it, why take your hat and go. Events don’t fly as quick as words and I’m taking you over the course at race-horse speed, skipping where I can, so as to give you just the gist of the story.</p>
+<p>“Wall then, Kitty loved life; not but what it meant work early and late to keep things as they oughter be on the old homestead. Her folks warn’t as notable as they might ha’ been till Kitty took hold, and then I tell you, sir, she made things spin. ’Twarn’t only her pretty face that brought men like bees about the place; there was many as would ha’ asked for her, if she’d been as homely as a door nail. But she sent ’em all away with the same story—all but her old sweethearts ’Lihu and Joel, and they was as much rivals when they grow’d up as they’d been at the old school-house, when Kitty treated ’Lihu like a yaller dog and showed favour to young Joel.</p>
+<p>“But ’Lihu hung on. He come of a race never known to give up what they catched on to. Some way he gained ground too, for, with that shiftless dad at the head of things at the homestead, there was need of a wise counsellor to back up Kitty in the way she took hold.</p>
+<p>“’Lihu was wise, and Kitty got to leaning on his word, and by the time that I be talkin’ of, I s’pose there warn’t no one that could have filled the place in Kitty’s life that ’Lihu had made for himself—only he did not guess at that, and the more she realised it, the backwarder that silly young creature would have been to confess to it, even to herself.</p>
+<p>“Sir, I ain’t used to folks that give such sudden turns. Don’t you s’pose you could set down and be comfortable somewheres while I be talkin’, instead of twisting and snerling yourself up in my poor vines?</p>
+<p>“You’d rather stand where you be; well, then, I’ll get on with my story.</p>
+<p>“I was coming to Joel. It’s more interesting to strangers, that part about Joel, for he was, as I said before, everything ’Lihu lacked—bright and gay, handsome and refined. Ay, and he was a manly looking feller too, and had took lessons in fighting and worked through a gymnasium course, while ’Lihu knew no better exercises than sawing wood and pitching hay and such farm work. ’Lihu was clumsy in moving, but Joel graceful and light; you’d as soon have thought of the old church tower taking to dancing as of ’Lihu trying his hand at it; but Joel, of course, he were the finest dancer anyone had ever see’d in our neighbourhood.</p>
+<p>“So it naturally come about that when Kitty wanted to have a gay time—and what young girl does not like fun sometimes?—she took to Joel and left ’Lihu to his fierce jealousy out in the cold.</p>
+<p>“Joel had nothing to do but philander after Kitty, come vacations, and there he’d be lounging round the garden, reading poetry to her, when she’d a minute to set down, and telling her about the doings of gay society folks in cities.</p>
+<p>“Kitty liked it all, why shouldn’t she? and the more ’Lihu looked like a funeral the more she turned her back on him and favoured t’other. You see, sir, I give it you fair. There was faults all round; and if you want my candid opinion, that Joel was more to blame than Kitty, for, being a man of the world, he knew better than she what the end of it all was bound to be; that the day would come when she would have to make her choice between them and that to one of them that day would mean a broken heart, a spoiled life.</p>
+<p>“Ah, well! It was hayin’ time just twenty years ago, and a spell of weather just like this, perhaps a mite warmer, but much the same.</p>
+<p>“Well, it threatened a thunderstorm, and all hands was pressed into the fields. Even Kitty was there, with her rake, for, to tell the truth, she was child enough to love a few hours in the sweet-smelling meadows. Joel, he was there, he’d took off his store clothes, and was handsomer than ever in his flannels, and, with his deftness and muscle, was worth any two hired men in the field.</p>
+<p>“He and ’Lihu, who had come over to lend a hand, was nigh to one another that afternoon; and there was things said between ’em, as they worked, as had to lay by for a settlin’. Kitty made things worse—silly girl that she was—by coming round in her gay way with her rake, and smiling at them both, so that it would have beat the Angel Gabriel to know which of them it were she had a leaning to.</p>
+<p>“Truth was, Kitty was back into childhood, out there in the hay—merry and sweet as a rosebud she looked in her old faded bonnet. I see her just as plain, this poor child—that did so much mischief without meaning to hurt anybody. How was she to know that fierce fires of jealous, passionate hatred were at work, kindled by her to flame that sunshiny afternoon, as she danced along the meadow with her rake, happy as the June day seemed long?</p>
+<p>“No, sir, you need not be impatient, for the story is about done.</p>
+<p>“The last load of hay was pitched as the glowing sun went down. The thunderstorm had passed to the hills beyond, and on the horizon clouds lay piled, purple black. The men come in to supper, and then went out again. Kitty was busy with her dishes in the kitchen till dark; then there come a flash of lightning, and a growlin’ of thunder. The last dish was put away, and so the girl went sauntering out, down to the bush of cluster roses by the garden gate, where she could look over into the barn-yard and call to the men still at work with the hay.</p>
+<p>“Something took her farther—’twas as if a hand led her—and she crossed the yard, and down the lane she went till she got to the meadow gate that stood open as the men had left it after bringing that last heavy wain through.</p>
+<p>“The moon was up—a moon that drifted serenely through the banks of clouds, ever upwards to the zenith.</p>
+<p>“Sir, did you ever think—and being a stranger, sir, you must excuse the question—did you ever think of the wicked deeds that moon has looked upon since the creation of mortal man? Oh, yes, I know it, I know it well; in God’s sunlight, that sin would never have been committed; but in the moonlight—the calm, still moonlight—passions rise to fever heat, the blow is struck, and man turns away with the curse of Cain written on his brow.</p>
+<p>“Kitty, standing with her back against the gate, her eyes following the flitting light across the meadow to the mill-race by the path beyond, all at once felt her heart leap with nameless horror. Yet all she could see was shadows, for the figures was out of sight. All she could see was shadows—shadows cast upon the moonlit meadowland where she had gaily danced with her rake in hand only a few hours before. Two giant forms (so the moonbeams made it) swayed back and forth, gripped together like one, scarcely moving from one spot as they wrestled, as though ’twould take force to uproot them—force like that of the whirlwind in the spring, that tore the old oak like a sapling from its foundations laid centuries ago.</p>
+<p>“Kitty, struck dumb like one in nightmare, fled across the meadow towards the mill-race.</p>
+<p>“As she went, the shadows lifted and changed with a cruel uprising that told her the end was near. If she could have cried out then, and if they had heard! But as she fled on unheeding, the moon was suddenly obscured. It was pitch dark, and the muttering thunder broke into a roar that shook the earth under Kitty’s feet. How long was it before the moon drifted from out that cloud-bank, where lightning played with zig-zag flames? How long?</p>
+<p>“When the moonbeams fell again upon the meadow-lands the shadows were gone and Kitty stood alone upon the banks of the mill-race, looking at the rushing dark waters. When she turned homewards she met Joel face to face. He was pale, but a triumphant light shone in his eyes. He came forward with open arms—‘Kitty, my Kitty!’ he cried.</p>
+<p>“Kitty stood one moment, with eyes that seemed to pierce to his very heart, then she turned to the splashing waters and pointed solemnly.</p>
+<p>“‘Elihu, where is Elihu?’ she asked; and in that moment, when Joel hung his head before her without a word of answer, Kitty fell down like a dead thing at his feet.</p>
+<p>“And I, who knew her so well, I tell you that Kitty died there on that meadow by the race, just twenty year ago to-day.</p>
+<p>“Joel, you ask? What come to Joel? Well, p’raps he felt bad just at first, for he went away for two, three year, I believe. But he come back, did Joel, and Kitty never molested him by word or deed. You can see his house there below the mill; he’s married long since and his house is full of children. But never, since that June night twenty year ago, has he dared set foot at the old homestead. Folks talked—of course they talked—but Kitty, the staid, sad woman they called Kitty, heeded nothing that was said. Joel, he tried to right himself and writ her many a long letter at the first.</p>
+<p>“‘It was a fair wrestle,’ said he, ‘and him as was beaten was to leave the place and not come back for months or years. Elihu was beat on the wrestle and he’s gone; that’s all there is to it.’</p>
+<p>“Kitty, she never answered them letters; she remembered that uplifted arm as the vast shadows swayed towards her on the meadow, and Joel, he give it up.”</p>
+<p>By this time the heavy hay-waggons began to move across the meadows. It was drawing near supper-time and the speaker rose and briskly set aside her knitting.</p>
+<p>“I believe that’s all,” she said. “It’s a tragic story for a country place like this. But now set down, won’t you, and wait till the men come up for supper? Mebbe you’ll be glad of a cup of tea before you go any further.”</p>
+<p>The stranger, well within the shade of the clustering vines, made no reply.</p>
+<p>“Say,” cried she, from the porch door; “set down and wait for supper, won’t you?”</p>
+<p>Surprised at the silence, accustomed as she was to the garrulity of country neighbours, she stepped out into the piazza. A beautiful woman she, of forty years, whose fine face seemed now set in an aureole of sunbeams. The stranger took off his hat and stooped somewhat towards her; there was something familiar in the gesture, which set the wild blood throbbing at her heart-strings as though the past twenty years had been a dream.</p>
+<p>“Kitty, my dear love, Kitty.”</p>
+<p>The farm men came singing up the lane, the heavy waggons grinding slowly along in the sunshine. All this, the everyday life, was now the dream, and they, Kitty and Elihu, had met in the meadow lands of the earthly Paradise.</p>
+
+  </body>
+  <back>
+   <div type="endnotes">
+   </div>
+  </back>
+ </text>
+</TEI>
