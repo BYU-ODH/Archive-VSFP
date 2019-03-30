@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Dickens, Charles. "Hunted Down." <title>All the Year Round, A Weekly Journal</title>, vol. 3, no. 67,  1860, pp. 397-400. Edited by  Lauren Fine. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/hunted-down/.</bibl>
+    <bibl>Dickens, Charles. "Hunted Down." <title>All the Year Round, A Weekly Journal</title>, vol. 3, no. 67,  1860, pp. 397-400. Edited by  Lauren Fine. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/hunted-down/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -56,7 +56,7 @@
 <p>Let me recal one of these Romances of the real world.</p>
 <p>There is nothing truer (I believe) than physiognomy, taken in connexion with manner. The art of reading that book of which Eternal Wisdom obliges every human creature to present his or her own page with the individual character written on it, is a difficult one, perhaps, and is little studied. It may require some natural aptitude, and it must require (for everything does) some patience and some pains. That, these are not usually given to it—that, numbers of people accept a few stock common-place expressions of face as the whole list of characteristics, and neither seek nor recognise the refinements that are truest—that You, for instance, give a great deal of time and attention to the reading of music, Greek, Latin, French, Italian, Hebrew, if you please, and do not qualify yourself to read the face of the master or mistress looking over your shoulder teaching it to you—I assume to be five hundred times more probable than improbable. Perhaps some little self-sufficiency may be at the bottom of this; facial expression requires no study from you, you think; it comes by nature to you to know enough about it, and you are not to be taken in.</p>
 <p>I confess, for my part, that I have been taken in, over and over and over again. I have been taken in by acquaintances, and I have been taken in (of course) by friends; far oftener by friends than by any other class of persons. How came I to be so deceived? Had I quite misread their faces? No. Believe me, my first impression of those people, founded on face and manner alone, was invariably true. My mistake was, in suffering them to come nearer to me, and explain themselves away.</p>
-<p>&nbsp;</p>
+<p> </p>
 <p style="text-align: center;">II.</p>
 <p>The partition which separated my own office from our general outer office, in the City, was of thick plate-glass. I could see through it what passed in the outer office, without hearing a word. I had had it put up, in place of a wall that had been there for years—ever since the house was built. It is no matter whether I did or did not make the change, in order that I might derive my first impression of strangers who came to us on business, from their faces alone, without being influenced by anything they said. Enough to mention that I turned my glass partition to that account, and that a Life Assurance Office is at all times exposed to be practised upon by the most crafty and cruel of the human race.</p>
 <p>It was through my glass partition that I first saw the gentleman whose story I am going to tell.</p>
@@ -116,7 +116,7 @@
 <p>As he talked and talked—but really not too much, for the rest of us seemed to force it upon him—I became quite angry with myself. I took his face to pieces in my mind, like a watch, and examined it in detail. I could not say much against any of his features separately; I could say even less against them when they were put together. “Then is it not monstrous,” I asked myself, “that because a man happens to part his hair straight up the middle of his head, I should permit myself to suspect, and even to detest, him?”</p>
 <p>(I may stop to remark that this was no proof of my good sense. An observer of men who finds himself steadily repelled by some apparently trifling thing in a stranger, is right to give it great weight. It may be the clue to the whole mystery. A hair or two will show where a lion is hidden. A very little key will open a very heavy door.)</p>
 <p>I took my part in the conversation with him after a time, and we got on remarkably well. In the drawing-room, I asked the host how long he had known Mr. Slinkton? He answered, not many months; he had met him at the house of a celebrated painter then present, who had known him well when he was travelling with his nieces in Italy for their health. His plans in life being broken by the death of one of them, he was reading, with the intention of going back to college as a matter of form, taking his degree and going into orders. I could not but argue with myself that here was the true explanation of his interest in poor Meltham, and that I had been almost brutal in my distrust on that simple head.</p>
-<p>&nbsp;</p>
+<p> </p>
 <p style="text-align: center;">III.</p>
 <p>On the very next day but one, I was sitting behind my glass partition as before, when he came into the outer office as before. The moment I saw him again without hearing him, I hated him worse than ever.</p>
 <p>It was only for a moment that he gave me this opportunity; for, he waved his tight-fitting black glove the instant I looked at him, and came straight in.</p>
@@ -151,9 +151,5 @@
 <p>A second reference paper (for we always required two) was sent down into Norfolk, and was duly received back by post. This, likewise, was satisfactorily answered in every respect. Our forms were all complied with, we accepted the proposal, and the premium for one year was paid.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

@@ -21,7 +21,7 @@ Isaac Robertson</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"The Farmer’s Tale; or, That Way Won’t Do." <title>The Child’s Companion and Juvenile Instructor</title>, vol. 30, no. 4,  1853, pp. 129-34. Edited by  Kate Sullivan. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-farmers-tale-or-that-way-wont-do/.</bibl>
+    <bibl>"The Farmer’s Tale; or, That Way Won’t Do." <title>The Child’s Companion and Juvenile Instructor</title>, vol. 30, no. 4,  1853, pp. 129-34. Edited by  Kate Sullivan. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-farmers-tale-or-that-way-wont-do/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -29,13 +29,13 @@ Isaac Robertson</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -63,9 +63,5 @@ Isaac Robertson</name>
 <p>Here farmer Brookes finished his tale by saying, “The sum total of all I have told you is this,—Fall not into the habit of being idle, either in earthly or in heavenly things; for that habit is a bad habit, and that way won’t do.”</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

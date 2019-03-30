@@ -21,7 +21,7 @@ Rachel Housley</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Clifford, Lucy Jane. "For Money—For Love." <title>Cassell's Family Magazine</title>, vol. 7, no. 76,  1881, pp. 250-1. Edited by  Kate Miller. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/for-money-for-love/.</bibl>
+    <bibl>Clifford, Lucy Jane. "For Money—For Love." <title>Cassell's Family Magazine</title>, vol. 7, no. 76,  1881, pp. 250-1. Edited by  Kate Miller. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/for-money-for-love/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -29,13 +29,13 @@ Rachel Housley</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -73,9 +73,5 @@ Rachel Housley</name>
 <p>And Will and Mary were married, and they had a beautiful honeymoon, and went for nice walks in woods that were quite dry, and laughed so much they didn’t know what to do; and, at the end of a month, Will took her home to a beautiful house, furnished with all manner of lovely things—soft cushions, and Indian hangings, and Japanese pots, and exquisite flowers—and he liked her to give parties, and to go to them. And she wore exquisite dresses, and had a beautiful open carriage, and she used to drive about, and all the people who passed her thought how happy and pretty she looked; and sometimes she passed Etta, but she could only see the tip of her nose. And Will and Mary will live together for great many years, and be very happy indeed; and Etta and Mr. Brown will live together for a great many years, and will have a great many quarrels, and waste a great deal of time in sulking: and the moral of this story is, that if you are engaged to a nice young man and you love him, you’d better cling to him, even if he is as poor as a church mouse; though, of course, if he should become rich it will be very nice indeed.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

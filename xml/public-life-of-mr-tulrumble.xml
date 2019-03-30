@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Dickens, Charles. "Public Life of Mr. Tulrumble." <title>Bentley's Miscellany</title>, vol. 1, no. 1,  1837, pp. 49-63. Edited by  Kaden Bradley. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/public-life-of-mr-tulrumble/.</bibl>
+    <bibl>Dickens, Charles. "Public Life of Mr. Tulrumble." <title>Bentley's Miscellany</title>, vol. 1, no. 1,  1837, pp. 49-63. Edited by  Kaden Bradley. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/public-life-of-mr-tulrumble/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -151,9 +151,5 @@
 <p>This is the first time we have published any of our gleanings from this particular source. Perhaps, at some future period, we may venture to open the chronicles of Mudfog.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

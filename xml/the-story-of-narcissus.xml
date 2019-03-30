@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"The Story of Narcissus." <title>The Man in the Moon</title>, vol. 2, no. 3,  1847, pp. 123-5. Edited by  Becky Tucker. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-story-of-narcissus/.</bibl>
+    <bibl>"The Story of Narcissus." <title>The Man in the Moon</title>, vol. 2, no. 3,  1847, pp. 123-5. Edited by  Becky Tucker. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-story-of-narcissus/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -56,9 +56,5 @@
 <p>Thus perished Narcissus, a victim to his ignorance of physical science, but the gods, in consideration no doubt of his having been nipt in the bud, and cut off in the flower of his youth, kindly transformed him into a daffodil, thus enabling him once in every year to resume his pristine seedy appearance.<note type="annotation" resp="editor" place="end" anchored="true">For “resume” the original reads: “esume.”</note></p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

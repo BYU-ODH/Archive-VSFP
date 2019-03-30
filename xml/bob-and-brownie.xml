@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>H. A. F.. "Bob and Brownie." <title>The Chatterbox</title>, no. 7,  1876, pp. 54-5. Edited by  Margaret Shen. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/bob-and-brownie/.</bibl>
+    <bibl>H. A. F.. "Bob and Brownie." <title>The Chatterbox</title>, no. 7,  1876, pp. 54-5. Edited by  Margaret Shen. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/bob-and-brownie/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -84,9 +84,5 @@
 <p>‘And the people who said cruel things of him? Oh, they are all forgiven: every one was so glad to see George, and so anxious to help him in his illness, that everything that went before was forgotten.’</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"An Adventure Under the Sea." <title>Our Boys’ Journal; A Weekly Magazine for Every Home</title>, vol. 3, no. 53,  1877, pp. 14-0. Edited by  Andrew Bennett. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/an-adventure-under-the-sea/.</bibl>
+    <bibl>"An Adventure Under the Sea." <title>Our Boys’ Journal; A Weekly Magazine for Every Home</title>, vol. 3, no. 53,  1877, pp. 14-0. Edited by  Andrew Bennett. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/an-adventure-under-the-sea/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -120,9 +120,5 @@
 <p>(To be continued.)</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Thomas, Annie Hall. "Beautiful Lucy Pierson: A Tale." <title>London Society</title>, vol. 2, no. 3,  1862, pp. 223-32. Edited by  Paige Torgerson. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/beautiful-lucy-pierson/.</bibl>
+    <bibl>Thomas, Annie Hall. "Beautiful Lucy Pierson: A Tale." <title>London Society</title>, vol. 2, no. 3,  1862, pp. 223-32. Edited by  Paige Torgerson. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/beautiful-lucy-pierson/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -68,7 +68,7 @@
 <p>I have stated that Mr. Hunsdon was no coxcomb; more than this, he was no fool. In the short half-hour, the last he ever spent with her, he read her character (or want of it) far more clearly than he had done in all those weeks of admiring intercourse. He saw through her now—an interested, heartless woman, with a keen eye to the main chance and the face and form of an angel. He read her thoroughly, and she saw that he did so, and feared she had gone a little too far in dissolving his illusion ere she had secured another. She knew as he took her hand for one moment in his, in cold farewell, that it was all over. She thought of the many times success had nearly crowned her hopes, but not quite; she thought of her thirty years, of life at Clayton, and she sighed as she turned to the richest and apparently the easiest to beguile of the two farming pupils, Mr. Lewis.</p>
 <p>He was not an enlivening object to contemplate; a very tall, slightly round-shouldered young man, with cold gray eyes, a smooth pale face, and a close-cropped, bullet-shaped head. His face was not devoid of expression; a profound conviction as stamped there in insolently legible characters that he was immeasurably superior to everybody else, his friend Newman excepted. He was arrogant, conceited, half-educated; but such as he was Miss Pierson intended (dare I say so?) to stalk him. Mr. Newman was simply a heavy young man with a rubicund face. Miss Pierson wasted few thoughts on him, for he had nothing but what it pleased the earl, his brother, to allow him; whereas Mr. Lewis had nothing between himself and the actual possession of great wealth save a weak old father, who always allowed him to do as he liked, and whose estates were strictly entailed on this bullet-headed son.</p>
 <p>Mr. Lewis was the more eligible of the two, and Mrs. Lewis Miss Pierson determined to be.</p>
-<p>&nbsp;</p>
+<p> </p>
 <p style="text-align: center;">Chapter II.</p>
 <p>It was astonishing, considering how haughtily she must have deported herself to the foreign princes and nobles, to witness how assiduous Miss Pierson was in her endeavours to please this remarkably plain English gentleman. She spared no pains, and she won, or nearly won, the day. Mr. Lewis lost his head, and forthwith imagined he had lost his heart; but being a youth of a lethargic temperament, he put off asking her to marry him ‘because,’ as he observed to his friend, ‘he knew he could have her any day.’ And in the meantime he contented himself with riding in to call on her three times a week; eating the top of his riding-whip at her for half an hour, and calling a little black toy terrier he had lately purchased for the purpose ‘Lucy.’ All this was well, but the whole Pierson family felt that it would be time and patience thrown away should matters rest here; so they waited anxiously for his next step, and in time he made it.</p>
 <p>The one subject Mr. Lewis could enlarge upon was riding, and on this topic he had discoursed learnedly, at great length, and frequently to Miss Pierson, who knew nothing and cared less about it, but who had carefully concealed both her ignorance and indifference. Now, however, he made a proposal; not the one she wanted, but one that under the circumstances required almost as delicate treatment. He proposed that Miss Pierson should ride his mare Sunbeam. She got out of the difficulty at first by stating how impossible it would be for her to ride with him alone—she would not venture upon telling this admirer of female equestrianship that she disliked and dreaded the idea of mounting a horse; it would be time enough to make him fully understand that when he was her husband, and it would not matter whether he was pleased or not. But on this unlucky occasion Mr. Lewis showed himself prolific in resource. He could provide a very tame cob for her father, who could then accompany them. ‘Newman would go with them,’ he added, ‘so her father wouldn’t be in their way.’ After this, what could Lucy do but improvise a habit and profess herself ‘delighted?’</p>
@@ -103,9 +103,5 @@
 <p>She stayed at home until two of her plain young sisters had gained husbands to love and care for them, homes to care for and grace, until her waning beauty was the constant theme of regret and commiseration amongst all about her. And then she hid her faded loveliness and her baffled hopes and blighted aspirations under the plain, sombre garb of a ‘Sister of Mercy,’ and left for ever the pitying tongue of scandal at Clayton to wag at its own sweet will about Lucy Pierson, the rector’s beautiful daughter.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

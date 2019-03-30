@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>. "The Story of the Three Hundred Spartans." <title>The Chatterbox</title>, vol. 18, no. 2,  1883, pp. 12-5. Edited by  Sara Herald. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-story-of-the-three-hundred-spartans/.</bibl>
+    <bibl>. "The Story of the Three Hundred Spartans." <title>The Chatterbox</title>, vol. 18, no. 2,  1883, pp. 12-5. Edited by  Sara Herald. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-story-of-the-three-hundred-spartans/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -60,9 +60,5 @@
 <p>The memory of Leonidas and his three hundred companions was held in the greatest veneration by the Spartans. Festivals were established in their honour, and hymns sung in their praise, and a splendid monument was erected over their grave in the pass. The battle of Thermopylae was fought four hundred and eighty years before the Christian era. A few remains of their monument may still be seen, but the fame of the brave men who died for their country will live for ever.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

@@ -22,7 +22,7 @@ Leslee Thorne-Murphy</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"A Fireside Story, Told by the Poker." <title>Belgravia; A London Magazine</title>, vol. 1, no. 1,  1866, pp. 83-91. Edited by  Tayva Case. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/a-fireside-story-told-by-the-poker/.</bibl>
+    <bibl>"A Fireside Story, Told by the Poker." <title>Belgravia; A London Magazine</title>, vol. 1, no. 1,  1866, pp. 83-91. Edited by  Tayva Case. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/a-fireside-story-told-by-the-poker/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -30,13 +30,13 @@ Leslee Thorne-Murphy</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -45,7 +45,7 @@ Leslee Thorne-Murphy</name>
   <front>
    <div type="introduction">
     <p>Introductory Note: Whimsically told from the point of view of Mr. and Mrs. Silver's fire poker, this story seeks to teach that the foundation of a healthy marriage is respect, consideration, and trust.  It differs from the main fare published in <emph>Belgravia</emph>, a journal edited by the sensation novelist, Mary Braddon.  Borrowing from the fantasy conventions of children's literature, the anonymous author offers relationship advice while slyly poking fun at the type of sensational romance plots that Braddon often featured in <emph>Belgravia</emph>.</p>
-<p>&nbsp;</p>
+<p> </p>
 
    </div>
   </front>
@@ -163,9 +163,5 @@ Leslee Thorne-Murphy</name>
 <p>I will only say in conclusion, that’s my story. If the hearthrug could have told it better, why didn’t she tell it?</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

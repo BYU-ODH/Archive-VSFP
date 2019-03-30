@@ -22,7 +22,7 @@ Hannah Murdock</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Muddock, J. E.. "The Prince's Crime: A True Romance of India." <title>The Strand Magazine</title>, vol. 3, no. 8,  1892, pp. 175-81. Edited by  Rachael Buchanan. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-princes-crime-a-true-romance-of-india/.</bibl>
+    <bibl>Muddock, J. E.. "The Prince's Crime: A True Romance of India." <title>The Strand Magazine</title>, vol. 3, no. 8,  1892, pp. 175-81. Edited by  Rachael Buchanan. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-princes-crime-a-true-romance-of-india/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -30,13 +30,13 @@ Hannah Murdock</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -93,9 +93,5 @@ This answer seemed to enrage him more, and he ordered the cowering servants to s
 <p>Two hours later the funeral pyre had done its work, and a heap of white ashes alone remained. Then Prince Chundra, of the House of Singh, came from his Palace, and the ashes were collected into a brass bowl and given to him. And standing on the banks of the river he muttered a malediction, and tossed the ashes of his murdered wife to the winds. And all fear of any medical evidence of the cause of her death being obtained was now past. Thus was consummated one of the cruelest and most romantic crimes that even the annals of India can furnish.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

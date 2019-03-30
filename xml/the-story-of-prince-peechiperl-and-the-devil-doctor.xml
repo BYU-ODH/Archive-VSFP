@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"The Story of Prince Peechiperl and the Devil-Doctor." <title>Beeton's Annual: Fact, Fiction, History, and Adventure</title>, vol. 1, no. 17,  1870, pp. 532-9. Edited by  McKenna Johnson. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-story-of-prince-peechiperl-and-the-devil-doctor/.</bibl>
+    <bibl>"The Story of Prince Peechiperl and the Devil-Doctor." <title>Beeton's Annual: Fact, Fiction, History, and Adventure</title>, vol. 1, no. 17,  1870, pp. 532-9. Edited by  McKenna Johnson. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-story-of-prince-peechiperl-and-the-devil-doctor/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -143,9 +143,5 @@
 <p>But, although Peechiperl passed within a pace of the affrighted Sequinista, he never heeded her, but bounded on, and she in his rear, crying his name, and running, and falling, and bruising her tender body against the thorn-trees, and up and running again, till, as she paused to listen, he had gained such ground that no sign of him could be heard. Still, urged by despair, she shouted again, and kept on and on all through the night till the morning. Still she did not rest, but hot, bruised, and thirsty, toiled along, till, at last, utterly worn out, and with no more life in her than enabled her to give one last cry for Peechiperl, she sank down. And full a month had passed ere her bones were found by the servants of King Quicayman, whose head man, the Ouganga, had caused Prince Peechiperl to be driven to madness and death.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

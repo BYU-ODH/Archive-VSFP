@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"Have Patience." <title>Primitive Methodist Juvenile Magazine</title>, vol. 13, no. 2,  1864, pp. 53-5. Edited by  Dallin Parkinson. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/have-patience/.</bibl>
+    <bibl>"Have Patience." <title>Primitive Methodist Juvenile Magazine</title>, vol. 13, no. 2,  1864, pp. 53-5. Edited by  Dallin Parkinson. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/have-patience/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -75,9 +75,5 @@
 <p>“And all along through the day, and all along through our lives, we’ll find hard knots to be untied, and these knots won’t always be in shoe-strings either. We’ll find them everywhere, in almost everything; and if we jerk, and twitch, and pull, and scowl up our faces, and get out of breath in a hurry, it will only make bad worse, and everything will go wrong as long as we live.  Now, Freddy, whenever you have a hard knot to untie, just say to yourself, have patience, Freddy Esmond, have patience.”<note type="annotation" resp="editor" place="end" anchored="true">The original is missing the final quotation mark: “. . .have patience.</note></p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

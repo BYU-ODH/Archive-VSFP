@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Gregory, Isabella Augusta. "The Legend of Diarmuid and Grania." <title>Samhain: an Occasional Review</title>, vol. 1,  1901, pp. 16-9. Edited by  Benjamin Bascom. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-legend-of-diarmuid-and-grania/.</bibl>
+    <bibl>Gregory, Isabella Augusta. "The Legend of Diarmuid and Grania." <title>Samhain: an Occasional Review</title>, vol. 1,  1901, pp. 16-9. Edited by  Benjamin Bascom. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-legend-of-diarmuid-and-grania/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -69,9 +69,5 @@
 <p>But after a while, Finn went secretly to the place where she was and got to see her, in spite of all her high words. And whatever she said to him or he said to her, when he came back to the seven battalions of the Fianna that were waiting for him, there was Grania coming with him, like any new wife with her husband. And when the Fianna saw that, they gave three great shouts of laughter and mockery. And some said that change had come on her because the mind of every woman changes like the water in a running stream; but some said it was Finn that had put enchantment on her.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

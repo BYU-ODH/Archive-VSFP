@@ -21,7 +21,7 @@ Lesli Mortensen</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Brett, Mrs. John. "Whirlwind Reapers." <title>A 1 Annual</title>, vol. 1, no. 1,  1888, pp. 7-10. Edited by  Krista Isom. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/whirlwind-reapers/.</bibl>
+    <bibl>Brett, Mrs. John. "Whirlwind Reapers." <title>A 1 Annual</title>, vol. 1, no. 1,  1888, pp. 7-10. Edited by  Krista Isom. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/whirlwind-reapers/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -29,13 +29,13 @@ Lesli Mortensen</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -135,9 +135,5 @@ Lesli Mortensen</name>
 <p>In a small cottage in a London suburb, these four dwell together, father and son travelling to and from the Metropolis by a cheap train, while Erminie and Gertrude do the work of the house, and prepare the meals with their own hands ; and as father and son now rejoice together that their prosperity is not built upon, nor in any measure augmented by anybody else’s losses or ruin, so the sisters thankfully realise the fact that their presence at the races will never again give countenance or encouragement to the various frauds and impostures, upon which alone the professional gamblers of all sorts and conditions feed and fatten.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

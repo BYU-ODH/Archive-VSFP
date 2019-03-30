@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Dougall, Lily. "Hath Not a Jew Eyes?." <title>Longman's Magazine</title>, vol. 13, no. 75,  1889, pp. 273-9. Edited by  Sara Seamons. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/hath-not-a-jew-eyes/.</bibl>
+    <bibl>Dougall, Lily. "Hath Not a Jew Eyes?." <title>Longman's Magazine</title>, vol. 13, no. 75,  1889, pp. 273-9. Edited by  Sara Seamons. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/hath-not-a-jew-eyes/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -107,9 +107,5 @@
 <p>The short hair curled softly about the face of the dead girl as she lay in her coffin, and Saintou paid heavily for masses for her sweet soul. When they had laid her in the churchyard, he came home, and took the key, and went into the little parlour all alone. She had never seen it. She had never even heard of it. It is sad to bury a baby that is dead; it is sadder, if we but knew it, to bury in darkness and silence a child that has never lived. A joy that has gone from us for ever is a jewel that trembles like a tear on Sorrow’s breast, but the brightest stars in her diadem are the memories of hopes that have passed away unrealised and untold. Ah well, perhaps the gay trappings of the little room, by their daily influence on his life, drew him nearer to heaven. He gave the key to his sister afterwards, and they used the room as their own; but that day he locked himself in alone, and, hiding his face in the cushions of her dainty chair, he wept as only a strong man can weep.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Gollock, Georgina. "Tamsine: A Tale of the Sea." <title>Our Own Gazette; Young Women’s Christian Association News</title>, vol. 2, no. 9,  1885, pp. 102-4. Edited by  Bree Halladay. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/tamsine-a-tale-of-the-sea/.</bibl>
+    <bibl>Gollock, Georgina. "Tamsine: A Tale of the Sea." <title>Our Own Gazette; Young Women’s Christian Association News</title>, vol. 2, no. 9,  1885, pp. 102-4. Edited by  Bree Halladay. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/tamsine-a-tale-of-the-sea/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -94,9 +94,5 @@
 <p>Tamsine and Davie and “Big Ben” had to begin life over again, and have not even yet made up for the loss of the <emph>Seabird</emph>, but they are happy in the possession of the Great Treasure, and Davie has told Tamsine how he listened to her prayer on that summer night, and never felt at rest till it was answered for him, as well as for her father. I cannot tell you of her future life, for she has not lived it yet; I only know that, loving God, and accepting gladly just what He sends, she is sure to be blessed and a blessing.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

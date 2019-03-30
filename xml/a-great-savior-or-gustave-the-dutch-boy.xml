@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Barnardo, Thomas John. "A Great Savior; Or, Gustave the Dutch Boy." <title>The Children’s Treasury &amp; Advocate of the Homeless &amp; Destitute</title>, vol. 1, no. 1,  1874, pp. 11-2. Edited by  Rachel Forsey. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/a-great-savior-or-gustave-the-dutch-boy/.</bibl>
+    <bibl>Barnardo, Thomas John. "A Great Savior; Or, Gustave the Dutch Boy." <title>The Children’s Treasury &amp; Advocate of the Homeless &amp; Destitute</title>, vol. 1, no. 1,  1874, pp. 11-2. Edited by  Rachel Forsey. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/a-great-savior-or-gustave-the-dutch-boy/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -43,7 +43,7 @@
   <front>
    <div type="introduction">
     <p>Introductory Note: The editor of <emph>The Children’s Treasury</emph>, Dr. Thomas John Barnardo, wrote the tale “A Great Savior; Or, Gustave the Dutch Boy.” The story  is an adaptation of a popular legend about a Dutch boy who saved Holland by sticking his finger in the hole of a water dyke. Barnardo’s adaptation integrates religious symbolism within the story, in keeping with the aims of his ragged school children’s magazine.</p>
-<p>&nbsp;</p>
+<p> </p>
 
    </div>
   </front>
@@ -55,9 +55,5 @@
 <p>Dear little friends, this is just what people are saying and doing all over the world now. The Wonderful One who prevented the dark, awful waters of sin, and death, and hell, from drowning us all, was Jesus. It was Jesus who, when we deserved to go to hell because we were sinners, loved us so much that He endured the awful pain and agony of the cross, that we by trusting Him might be safe and happy. The Bible says—“ He bare our sins in His own body on the tree,"<note type="annotation" resp="editor" place="end" anchored="true">1 Peter 2:24.</note> and “He died the just for the unjust to bring us to God."<note type="annotation" resp="editor" place="end" anchored="true">1 Peter 3:18.</note> Every one who believes this <emph>must</emph> love Jesus with all his heart, and will shew his gratitude by a holy life. The people who believed the story about Gustave, were very grateful and happy next day, as they thought of their deliverance and their deliverer; and so will every little one who reads this, and who shall believe in his or her heart, and say like St. Paul, ‘He loved <emph>me</emph>, and gave Himself for <emph>me</emph>.’<note type="annotation" resp="editor" place="end" anchored="true">Galatians 2:20.</note></p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

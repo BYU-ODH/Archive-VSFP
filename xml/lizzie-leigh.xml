@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Gaskell, Elizabeth Cleghorn. "Lizzie Leigh." <title>Household Words: A Weekly Journal</title>, vol. 1, no. 1,  1850, pp. 2-6. Edited by  Emily Hilton. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/lizzie-leigh/.</bibl>
+    <bibl>Gaskell, Elizabeth Cleghorn. "Lizzie Leigh." <title>Household Words: A Weekly Journal</title>, vol. 1, no. 1,  1850, pp. 2-6. Edited by  Emily Hilton. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/lizzie-leigh/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -49,7 +49,7 @@
   </front>
   <body>
 <p>In Four Chapters.—Chapter I.</p>
-<p>&nbsp;</p>
+<p> </p>
 <p>WHEN Death is present in a household on a Christmas Day, the very contrast between the time as it now is, and the day as it has often been, gives a poignancy to sorrow,—a  more utter blankness to the desolation. James Leigh died just as the far-away bells of Rochdale Church were ringing for morning service on Christmas Day, 1836. A few minutes before his death, he opened his already glazing eyes, and made a sign to his wife, by the faint motion of his lips, that he had yet something to say. She stooped close down, and caught the broken whisper, ‘I forgive her, Annie! May God forgive me!’</p>
 <p>‘Oh, my love, my dear! only get well, and I will never cease showing my thanks for those words. May God in heaven bless thee for saying them. Thou’rt not so restless, my lad! may be—Oh, God!’</p>
 <p>For even while she spoke, he died.</p>
@@ -113,9 +113,5 @@
 <p>When Tom had left the room, he prepared to speak.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

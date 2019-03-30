@@ -21,7 +21,7 @@ Lesli Mortensen</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Wotton, Mabel E.. "The End of the Tragedy." <title>The Argosy</title>, vol. 50, no. 3,  1890, pp. 164-76. Edited by  Rachael Riner. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-end-of-the-tragedy/.</bibl>
+    <bibl>Wotton, Mabel E.. "The End of the Tragedy." <title>The Argosy</title>, vol. 50, no. 3,  1890, pp. 164-76. Edited by  Rachael Riner. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-end-of-the-tragedy/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -29,13 +29,13 @@ Lesli Mortensen</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -173,9 +173,5 @@ Lesli Mortensen</name>
 <p>Matters rest very much as he left them. After a weary two months’ confinement, which she passed in the belief that little Robin was alive and hidden away from her, Mrs. Seagrave died in the asylum where we had placed her. Will is still travelling in the East: the children have been placed with friends. I please myself sometimes by imagining that, when time shall have blunted his double sorrow, and Dulcie and her little brother have grown to a more companionable age, the three may live together again. But if the children can persuade him to give up his wandering life, they will never have to content themselves with some foreign city. He will never come home.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

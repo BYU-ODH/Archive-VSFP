@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Hollingshead, John. "An Executor." <title>Household Words: A Weekly Journal</title>, vol. 19, no. 479,  1859, pp. 617-20. Edited by  Michael Hayden. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-executor/.</bibl>
+    <bibl>Hollingshead, John. "An Executor." <title>Household Words: A Weekly Journal</title>, vol. 19, no. 479,  1859, pp. 617-20. Edited by  Michael Hayden. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-executor/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -83,9 +83,5 @@
 <p>So far my Tontine annuitant was always to be found; but the trouble of searching for him in the particularly stifling atmosphere of a Portugal Street law court, or the equally unsavoury atmosphere of a Portugal Street tavern, had soon too little of novelty about it to make it any longer agreeable. I had seriously begun to consider what course I could adopt to secure him in one spot, and had even written to a friend who had some interest about procuring him a government appointment, when, to my great relief, I heard that he had suddenly sailed for British Columbia to introduce a new system of fire and life insurance. I have used all due diligence as a trustee to find him out, by writing a few letters to the colony, without obtaining any reply; and I consider my labours as an Executor finally closed. I never expect to see my Tontine annuitant again, and I shall certainly never blindly accept another similar trust.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

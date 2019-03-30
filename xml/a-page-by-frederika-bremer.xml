@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Bremer, Frederika. "A Page by Frederika Bremer." <title>The Man in the Moon</title>, vol. 3, no. 4,  1847, pp. 194-5. Edited by  Dallas Hadley. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/a-page-by-frederika-bremer/.</bibl>
+    <bibl>Bremer, Frederika. "A Page by Frederika Bremer." <title>The Man in the Moon</title>, vol. 3, no. 4,  1847, pp. 194-5. Edited by  Dallas Hadley. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/a-page-by-frederika-bremer/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -64,9 +64,5 @@
 <p>[NOTE.—This is the sort of stuff which Miss Bremer’s admirers call “natural;” and to a certain and verbal extent we agree with them; for no one but a “born natural” could have written anything like it, and published the “niaiserie” afterwards.]<note type="annotation" resp="editor" place="end" anchored="true">Niaiserie is “silliness."</note></p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

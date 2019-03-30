@@ -22,7 +22,7 @@ Hannah Murdock</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Barr, Robert. "Detective Stories Gone Wrong: The Adventures of Sherlaw Kombs." <title>The Idler</title>, vol. 1, no. 5,  1892, pp. 413-24. Edited by  Taylor Topham. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/detective-stories-gone-wrong-the-adventures-of-sherlaw-kombs/.</bibl>
+    <bibl>Barr, Robert. "Detective Stories Gone Wrong: The Adventures of Sherlaw Kombs." <title>The Idler</title>, vol. 1, no. 5,  1892, pp. 413-24. Edited by  Taylor Topham. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/detective-stories-gone-wrong-the-adventures-of-sherlaw-kombs/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -30,13 +30,13 @@ Hannah Murdock</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -158,9 +158,5 @@ Hannah Murdock</name>
 <p>The Queen’s evidence dodge didn’t work, and Scotland Yard ignobly insulted my friend Sherlaw Kombs by sending him a pass to see the villains hanged.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

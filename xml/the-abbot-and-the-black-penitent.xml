@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"The Abbot and the Black Penitent." <title>Bentley's Miscellany</title>, vol. 4, no. 21,  1838, pp. 261-5. Edited by  Scott Lee. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-abbot-and-the-black-penitent/.</bibl>
+    <bibl>"The Abbot and the Black Penitent." <title>Bentley's Miscellany</title>, vol. 4, no. 21,  1838, pp. 261-5. Edited by  Scott Lee. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-abbot-and-the-black-penitent/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -86,9 +86,5 @@ Inter sylvarum pascua,”&amp;c.<note type="annotation" resp="editor" place="end
 <p>Tradition adds, that the rector had the soft and voluptuous cushions, on which he had reposed the night of his temptation, replaced by a plain seat, studded with sharp-pointed nails, on which he sat to hear the confession of his penitents; and that he died, in the fulness of grace, three years after the consecration of his church. Towards the close of the fifteenth century there was still exhibited in this chapel the penitential seat used by St. Kernoeck; but the precious relic unluckily disappeared amidst the civil wars which about that time raged in Brittany. It is not supposed that the sacrilegious thief who stole it, whoever he was, ever sat upon it himself.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

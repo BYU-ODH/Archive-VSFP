@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>D'Arcy, Ella. "White Magic." <title>The Yellow Book</title>, vol. 3,  1894, pp. 59-68. Edited by  Nathan Sumbot. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/white-magic/.</bibl>
+    <bibl>D'Arcy, Ella. "White Magic." <title>The Yellow Book</title>, vol. 3,  1894, pp. 59-68. Edited by  Nathan Sumbot. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/white-magic/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -82,9 +82,5 @@
 <p>Five minutes later the sea had faded into dull greys and sober browns, starved white clouds moved dispiritedly over a vacant sky, and by cricking the back of my neck I was able to follow Toumes' black coat and the white frock of Miss Elsie until they reached Poidevin's wine-vaults, and, turning up the Water-gate, were lost to view.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

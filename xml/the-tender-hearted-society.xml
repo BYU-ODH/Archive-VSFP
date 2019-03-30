@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Beech-Holme. "The Tender-hearted Society." <title>Early Days</title>, vol. 12, no. 2,  1898, pp. 18-0. Edited by  Lauren Carr. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-tender-hearted-society/.</bibl>
+    <bibl>Beech-Holme. "The Tender-hearted Society." <title>Early Days</title>, vol. 12, no. 2,  1898, pp. 18-0. Edited by  Lauren Carr. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-tender-hearted-society/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -64,9 +64,5 @@
 <p>One of their first ideas—and oh! I cannot tell you what pleasure it gave to the little kind-hearted girls themselves—was to send a valentine to each of the girls in the school who seemed poorer and more friendless than themselves. Gladys and Lulu prepared them and painted them in their very best style, with loving words of greeting. They were the nicest valentines I ever heard of, giving such pleasure both to giver and to receiver.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

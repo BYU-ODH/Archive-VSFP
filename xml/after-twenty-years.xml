@@ -21,7 +21,7 @@ Lesli Mortensen</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Trotter, Ada M.. "After Twenty Years." <title>The Argosy</title>, vol. 51, no. 2,  1891, pp. 156-61. Edited by  Sul Hyoung. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/after-twenty-years/.</bibl>
+    <bibl>Trotter, Ada M.. "After Twenty Years." <title>The Argosy</title>, vol. 51, no. 2,  1891, pp. 156-61. Edited by  Sul Hyoung. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/after-twenty-years/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -29,13 +29,13 @@ Lesli Mortensen</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -101,9 +101,5 @@ Lesli Mortensen</name>
 <p>The farm men came singing up the lane, the heavy waggons grinding slowly along in the sunshine. All this, the everyday life, was now the dream, and they, Kitty and Elihu, had met in the meadow lands of the earthly Paradise.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

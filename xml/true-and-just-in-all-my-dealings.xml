@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>R. L. C.. "True and Just in All My Dealings." <title>The Monthly Packet</title>, vol. 2, no. 9,  1881, pp. 300-2. Edited by  Marion Young. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/true-and-just-in-all-my-dealings/.</bibl>
+    <bibl>R. L. C.. "True and Just in All My Dealings." <title>The Monthly Packet</title>, vol. 2, no. 9,  1881, pp. 300-2. Edited by  Marion Young. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/true-and-just-in-all-my-dealings/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -70,9 +70,5 @@
 <p>‘The poor girl said, “I can <emph>now</emph>, ma’am, for <emph>you</emph> don’t expect me to tell lies for you. I could not go to Holy Communion, and know that perhaps that very day I might have to say mistress was not at home, when I knew all the time she was.”’<note type="annotation" resp="editor" place="end" anchored="true">Original footnote reads: "A fact."</note></p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

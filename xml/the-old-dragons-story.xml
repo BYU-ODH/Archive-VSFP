@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Martin, William. "The Old Dragon's Story." <title>Peter Parley's Annual</title>,  1861, pp. 213-36. Edited by  Ashley Anderson. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-old-dragons-story/.</bibl>
+    <bibl>Martin, William. "The Old Dragon's Story." <title>Peter Parley's Annual</title>,  1861, pp. 213-36. Edited by  Ashley Anderson. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-old-dragons-story/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -101,9 +101,5 @@
 <p>The instant the youth uttered this prayer a fragrant smoke, like incense, arose from the spot on which he stood, and filled the whole cavern and hall. Sweet sounds of delicious music took the place of the yells before heard; a bright white cloud encompassed him. In a few moments that white cloud beamed with all the colours of the rainbow, and from it a voice was heard, saying. “Thy prayer has come up as a sweet memorial before me.” The cloud now dispersed—the songs of angels gave place to those of birds—and Edilswag found himself, waking as from a delicious sleep, under the wide-spreading branches of one of the forest trees, with his father at a small distance, pursuing his usual work. He awoke as from a dream; but he awoke with a lesson which he never forgot. He pursued honest labour like a man. He gained a competency enough for a poor man, and he enjoyed domestic happiness, and a clear conscience, and the blessing of God gave him a perpetual peace.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

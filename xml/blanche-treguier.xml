@@ -21,7 +21,7 @@ Ali Young</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"Blanche Tréguier." <title>Macmillan's Magazine</title>, vol. 21, no. 126,  1870, pp. 534-42. Edited by  Hannah Murdock. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/blanche-treguier/.</bibl>
+    <bibl>"Blanche Tréguier." <title>Macmillan's Magazine</title>, vol. 21, no. 126,  1870, pp. 534-42. Edited by  Hannah Murdock. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/blanche-treguier/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -29,13 +29,13 @@ Ali Young</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -144,12 +144,8 @@ Ali Young</name>
 <p>“The ward is to be cleared instantly. Mesdames, you must go. Not one instant longer,” said the Sister, peremptorily, as Blanche prayed to be allowed to remain. As she took us out by one door, the surgeons entered by another.</p>
 <p>That evening we two attended poor Tristan’s funeral. I had thought of one thing which had not yet occurred to Blanche. I had made arrangements by which the grave became her private property for ever. For a fair sum of money one may have the certainty that the grave of a departed friend will rest inviolate. If this is considered a privilege not worth securing, the plot of ground is liable to be used for a new tenant after a limited number of years. I took Blanche home to her mother. There was only one little outburst from her, as we looked our last at Toulon from the carriage windows. “Ah! he never knew how much I loved him! I never knew myself till now. Henceforth my whole life shall be one prayer for him. That wretched money I was so proud to earn all alone, shall be spent in masses for his soul.”</p>
 <p>Ten years after Tristan’s death I went to St. Aignan and saw Blanche, and we went together to the commemorative service in the church on All Souls’ day. “I think he must be happy,” she said, as we walked home. “I think ten years of praying must be worth something. But if it has been worth something, it will still be worth something. So I shall go on.”</p>
-<p>&nbsp;</p>
+<p> </p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

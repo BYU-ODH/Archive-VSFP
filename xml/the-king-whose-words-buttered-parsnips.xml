@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"The King Whose Words Buttered Parsnips." <title>The Man in the Moon</title>, vol. 3, no. 5,  1848, pp. 257-8. Edited by  Coryse Templeman. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-king-whose-words-buttered-parsnips/.</bibl>
+    <bibl>"The King Whose Words Buttered Parsnips." <title>The Man in the Moon</title>, vol. 3, no. 5,  1848, pp. 257-8. Edited by  Coryse Templeman. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-king-whose-words-buttered-parsnips/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -56,9 +56,5 @@
 <p>We are not, however, without great hopes that very soon this foolish people will have its eyes opened to the respectable Humbug who has been deceiving them, and that they will cause him to march out of his kingdom, with every drum in Germany playing the “Rogue’s March” at his heels.</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

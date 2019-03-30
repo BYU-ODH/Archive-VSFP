@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Banim, John, Banim, Michael. "The Half-Brothers." <title>The Keepsake</title>,  1829, pp. 52-68. Edited by  Earl, Madelyn. <title>Victorian Short Fiction Project</title>, 20 March 2019, http://vsfp.byu.edu/index.php/title/the-half-brothers/.</bibl>
+    <bibl>Banim, John, Banim, Michael. "The Half-Brothers." <title>The Keepsake</title>,  1829, pp. 52-68. Edited by  Earl, Madelyn. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-half-brothers/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-20">20 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -115,12 +115,8 @@
 <p>“He would not die, to let you say I killed him, mother,” said Charles, laughing through his tears.</p>
 <p>“The child lives, by Heavens!” cried the captain.</p>
 <p>That day Captain Stone was married to the woman of his early choice; and having despatched before evening the trifling business which first called him to shore, he conveyed his wife to his ship, together with her two sons, and pursued his voyage.</p>
-<p>&nbsp;</p>
+<p> </p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

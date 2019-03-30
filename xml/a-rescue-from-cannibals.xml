@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Low, Charles Rathbone. "A Rescue from Cannibals." <title>Routledge’s Every Boy’s Annual</title>, vol. 26,  1886, pp. 137-44. Edited by  Dane Lystrup. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/a-rescue-from-cannibals/.</bibl>
+    <bibl>Low, Charles Rathbone. "A Rescue from Cannibals." <title>Routledge’s Every Boy’s Annual</title>, vol. 26,  1886, pp. 137-44. Edited by  Dane Lystrup. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/a-rescue-from-cannibals/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -92,9 +92,5 @@
 <p>The <emph>Tigris</emph> sailed from Murray Island on the 29th July, and anchored at Half-way Island about fifty miles distant, where a party of officers discovered, carved on a tree, the words “Dig under.” In doing so they found a bottle containing a letter from Captain Lewis, dated the 28th of July, detailing his proceedings. On the following day they sighted the <emph>Isabella</emph> near the York Islands, and, after visiting her, landed at Double Island. The two vessels proceeded in company, and Commander Igglesden of the <emph>Tigris</emph> named a small islet, Grant Island, after the Governor of Bombay. Some officers landed at Wednesday Island, where the natives appeared very hostile, and at Booby Island, where records of passing ships were found in a bottle. On the 6th August the <emph>Tigris</emph> struck on a patch of coral rock, about one mile to the north of Cape Croker (not laid down in the charts), and was only saved from going to pieces by the strength of her teak timbers. The surf broke clean over the gunwale, and she lost her rudder, fore-foot, the whole of her false keel, and twenty feet of her main keel. On the following day the <emph>Tigris</emph> was steered into Raffles' Bay by her head and after-sails.<note type="annotation" resp="editor" place="end" anchored="true">The significantly damaged Tigris coming into port using only her sails is significant because it is very difficult to steer a ship without the rudder. Maneuvering a large vessel into port using only the sails shows the skill of the crew.</note> In 1824 a settlement had been formed here (and also at Port Cockburn, in Melville Island) by Sir Gordon Bremer, of H.M.S. <emph>Tamar</emph>, which was abandoned in March, 1829, owing to the unhealthiness of the climate and the hostility of the natives. The only remains of the settlement were the débris of the fort and some railings. The <emph>Tigris</emph>, after having fitted a temporary rudder, and repaired other damages, proceeded, on the 17th of August, to Coupang, on the island of Timor, and thence to Batavia and Bombay, where she cast anchor on the 7th of November.<note type="annotation" resp="editor" place="end" anchored="true">The Tigris is sailing in a northwestern arc through Timor; to the Indonesian capital, Jakarta (formerly named Batavia); and to the eastern coast of India to the city of Mumbai (formerly named Bombay).</note></p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

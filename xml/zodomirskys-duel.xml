@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>Dumas, Alexandre. "Zodomirsky's Duel." <title>The Strand Magazine</title>, vol. 3, no. 6,  1892, pp. 554-62. Edited by  Jacquie Smith. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/zodomirskys-duel/.</bibl>
+    <bibl>Dumas, Alexandre. "Zodomirsky's Duel." <title>The Strand Magazine</title>, vol. 3, no. 6,  1892, pp. 554-62. Edited by  Jacquie Smith. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/zodomirskys-duel/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -98,7 +98,7 @@
 <p>“You will let us know the hour of combat?” said several voices.</p>
 <p>“Certainly, gentlemen. Come and bid a last farewell to one of us.”</p>
 <p>We all parted at the Ravenskys’ door, each officer shaking hands with Zodomirsky as with an old friend.</p>
-<p>&nbsp;</p>
+<p> </p>
 <p style="text-align: center;">II.</p>
 <p>STAMM was waiting for me when I arrived at his house. His conditions were these—Two sabres were to be planted at a distance of one pace apart; each opponent to extend his arm at full length and fire at the word “<emph>three</emph>.” One pistol alone was to be loaded.</p>
 <p>I endeavoured in vain to obtain another mode of combat.</p>
@@ -140,7 +140,7 @@
 <p>I made a sign in the affirmative.</p>
 <p>“Then, let us start,” he said.</p>
 <p>We mounted into the carriage, and drove off.</p>
-<p>&nbsp;</p>
+<p> </p>
 <p style="text-align: center;">III.</p>
 <p>“AH,” said Pravdine all at once, “there is Michaelovitch’s carriage. Yes, yes, it is he with one of ours, and there is Naletoff, on his Circassian horse. Good! the others are coming behind. It is well we started so soon.”</p>
 <p>The carriage had to pass the house of the Ravenskys. I could not refrain from looking up; the poor girl was at her window, motionless as a statue. She did not even nod to us.</p>
@@ -237,12 +237,8 @@
 <p>“Yes, yours,” said the old nurse, “your hair that she cut off herself on quitting you at St. Petersburg. I have often told her it would bring misfortune to one of you.”</p>
 <p>If anyone desires to learn what became of Zodomirsky, let him inquire for Brother Vassili, at the Monastery of Troitza.</p>
 <p>The holy brothers will show the visitor his tomb. They know neither his real name, nor the causes which, at twenty-six, had made him take the robe of a monk. Only they say, vaguely, that it was after a great sorrow, caused by the death of a woman whom he loved.</p>
-<p>&nbsp;</p>
+<p> </p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

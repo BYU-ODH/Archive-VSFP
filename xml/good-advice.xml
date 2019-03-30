@@ -21,7 +21,7 @@ Heather Eliason</name>
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"Good Advice." <title>The Chatterbox</title>, vol. 18, no. 2,  1883, pp. 12-0. Edited by  Sara Herald. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/good-advice/.</bibl>
+    <bibl>"Good Advice." <title>The Chatterbox</title>, vol. 18, no. 2,  1883, pp. 12-0. Edited by  Sara Herald. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/good-advice/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -29,13 +29,13 @@ Heather Eliason</name>
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -44,7 +44,7 @@ Heather Eliason</name>
   <front>
    <div type="introduction">
     <p>Introductory Note: In this brief story, an anonymous narrator recounts an event attributed to John Newton (1725-1807), a former slave ship captain who experienced a spiritual conversion and eventually became a clergyman and an outspoken advocate for ending the slave trade. He is best known for writing the hymn “Amazing Grace.”</p>
-<p>&nbsp;</p>
+<p> </p>
 
    </div>
   </front>
@@ -53,9 +53,5 @@ Heather Eliason</name>
 <p>‘On my return I came to the same troop, who were still bent on mischief. I prepared to be assailed, but as I drew near to them I heard one say, “Here <emph>he</emph> comes again, let us have at him!” but another said, “No, do not let us snowball him, for he took no notice of us before.” So I passed on and saw no more of them. Now, Madam, if you take no notice of these ill-natured things, the persons who have said them will cease to give you cause of complaint.’</p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>

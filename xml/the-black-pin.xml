@@ -20,7 +20,7 @@
     <date when="2019">2019</date>
    </publicationStmt>
    <sourceDesc>
-    <bibl>"The Black Pin." <title>The Keepsake</title>,  1838, pp. 69-84. Edited by  Kelsey Costello. <title>Victorian Short Fiction Project</title>, 18 March 2019, http://vsfp.byu.edu/index.php/title/the-black-pin/.</bibl>
+    <bibl>"The Black Pin." <title>The Keepsake</title>,  1838, pp. 69-84. Edited by  Kelsey Costello. <title>Victorian Short Fiction Project</title>, 30 March 2019, http://vsfp.byu.edu/index.php/title/the-black-pin/.</bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc>
@@ -28,13 +28,13 @@
     <p>The Victorian Short Fiction Project is an student-curated, online collection of short fiction from Victorian era English periodicals. The project is directed by Dr. Leslee Thorne-Murphy as part of her English ___ course.</p>
    </projectDesc>
    <refsDecl>
-    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription. BACK: Notes.</p>
+    <p>The basic structure is as follows: FRONT: Introduction, URL of original document. BODY: Transcription.</p>
    </refsDecl>
   </encodingDesc>
   <revisionDesc>
    <list>
     <item>
-     <date when="2019-03-18">18 March 2019</date> last updated.
+     <date when="2019-03-30">30 March 2019</date> last updated.
     </item>
    </list>
   </revisionDesc>
@@ -108,12 +108,8 @@
 <p>The village bells of little Langford were ringing merrily on the succeeding first of May, and the labouring classes, dressed in their best attire, were standing in groups round the ancient portico of Langford Manor House. Before the door waited a chariot and four post horses, in the dickey of which was already seated a smartly dressed lady’s maid.</p>
 <p>The neighbouring downs decked in the emerald hue of spring, and spangled with innumerable cowslips, were smiling up at the soft blue sky; while Langford and Grovely woods were alive with wild untutored melody, the dove, the lark, the blackbird, nightingale, and thrush, each vying with the other who should more sweetly sing the bounties of creation. Oh! what a happy face had nature then put on!</p>
 <p>There was a bustle among the domestics in the Hall; the carriage steps were let down with much display; a lusty cheer was given by the crowd; and then, amid the waving of hats and blessings from all, Rosa, blushing and beautiful, and beloved, was handed to the carriage by Charles, who had made her his bride. The good old Sir John and his amiable daughters, with a host of friends and relations, were crowding the steps of the portico; and, as the carriage drove off, waving a thousand kind and affectionate adieux.</p>
-<p>&nbsp;</p>
+<p> </p>
 
   </body>
-  <back>
-   <div type="endnotes">
-   </div>
-  </back>
  </text>
 </TEI>
